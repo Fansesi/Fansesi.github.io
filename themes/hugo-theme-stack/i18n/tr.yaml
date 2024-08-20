@@ -4,6 +4,10 @@ toggleMenu:
 darkMode:
     other: Koyu Mod
 
+subtitle:
+    other: Müzik, CS, CS ile müzik, matematik ve 3D. Ve gezi notları!
+    #  "Music, CS, music with CS, math and 3D art. As well as travel notes."
+
 list:
     page:
         one: "{{ .Count }} makale"
@@ -17,18 +21,32 @@ list:
         other: Alt bölümler
 
 article:
+    back:
+        other: Geri
+
+    tableOfContents:
+        other: İçindekiler
+
     relatedContent:
-        other: Alakalı içerikler
+        other: İlişkili yazılar
+
     lastUpdatedOn:
-        other: Son güncelleme
+        other: En son güncelleme zamanı
+
+    readingTime:
+        one: "{{ .Count }} dakika"
+        other: "{{ .Count }} dakika"
 
 notFound:
     title:
-        other: Bulunamadı
+        other: Bulunamadı!
     subtitle:
         other: Aradığınız sayfa mevcut değil.
 
 widget:
+    categoriesCloud:
+        title:
+            other: Kategoriler
     archives:
         title:
             other: Arşiv
@@ -42,7 +60,7 @@ search:
     title:
         other: Arama
     placeholder:
-        other: Birşeyler yazın...
+        other: Bir şeyler yazın...
     resultTitle:
         other: "#PAGES_COUNT sayfa (#TIME_SECONDS saniye)"
 
@@ -50,4 +68,4 @@ footer:
     builtWith:
         other: "{{ .Generator }} ile oluşturuldu."
     designedBy:
-        other: "{{ .Theme }} teması {{ .DesignedBy }} tarafından tasarlandı"
+        other: "{{ .Theme }} teması {{ .DesignedBy }} tarafından tasarlandı."

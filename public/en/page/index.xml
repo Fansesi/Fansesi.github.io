@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Burak Sina Akbudak</title>
+        <link>http://localhost:1313/en/page/</link>
+        <description>Recent content in Pages on Burak Sina Akbudak</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-US</language>
+        <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>http://localhost:1313/en/page/about/</link>
+        <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/page/about/</guid>
+        <description>&lt;p&gt;My full name is Burak Sina Akbudak, though I prefer to be called just Sina. I&amp;rsquo;m a passionate Music Information Retrieval (MIR) researcher (or at least I want to be!). I speak Turkish native and English at professional level. I&amp;rsquo;m currently a student at Bogazici University, Computer Engineering Department.&lt;/p&gt;
+&lt;p&gt;My interests can be categorized as follows:&lt;/p&gt;
+&lt;h3 id=&#34;music&#34;&gt;Music
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Classical, jazz and math rock music composition&lt;/li&gt;
+&lt;li&gt;Music theory and using this theory knowledge on playing classical, electrical, bass guitars and drums&lt;/li&gt;
+&lt;li&gt;Digital Audio Workstations (DAWs) and signal processing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;coding&#34;&gt;Coding
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Music modeling using natural language modeling techniques&lt;/li&gt;
+&lt;li&gt;Music information retrieval (MIR), namely the fields of synthetic music generation, singing voice synthesis, text-to-speech&lt;/li&gt;
+&lt;li&gt;Physical simulations using C/C++ (although I still have a lot to learn!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;digital-art&#34;&gt;Digital Art
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;3D environment design&lt;/li&gt;
+&lt;li&gt;Character and hard surface modeling&lt;/li&gt;
+&lt;li&gt;Shader art coding and openGL&lt;/li&gt;
+&lt;li&gt;Pixel art&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;other&#34;&gt;Other
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Mathematical olympiads and contests&lt;/li&gt;
+&lt;li&gt;Game industry and game development&lt;/li&gt;
+&lt;li&gt;3D printers and printing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this blog, I write about my projects, researchs, some thoughts and guides about specific stuff such as problems I&amp;rsquo;ve faced during my works or guide to project competitions. I also share my personal travel notes.&lt;/p&gt;
+&lt;p&gt;Have a beautiful day!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>http://localhost:1313/en/page/archives/</link>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/page/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>http://localhost:1313/en/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/en/page/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

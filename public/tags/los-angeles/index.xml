@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Los Angeles on </title>
+    <link>//localhost:1313/tags/los-angeles/</link>
+    <description>Recent content in Los Angeles on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/los-angeles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISEF Etkinliği</title>
+      <link>//localhost:1313/turkish/post/isef_travel/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/turkish/post/isef_travel/</guid>
+      <description>Gerçekten de vakit geldi.&#xA;Gün 1 - Yolculuk Sabahtan şükür problemsiz geldik havaalanına. Bir saat kadar falan bekleyeceğiz.&#xA;Kontuardan çağırıldım. Makara olay. ISEF takımından birini çağırmak isteyip beni çağırmışlar ama özel değil.&#xA;Gitarı koyarken sıkıntı yaşamadım. Direkt kabin bagajı olarak yer vardı ama Amerika uçağı için aynı şekilde olacağını düşünmüyorum.&#xA;İGA&amp;rsquo;ya geldik. Bıraktığımdan beri hiç küçülmemiş, hala acayip büyük. Zaten uçak park etme pozisyonuna gelene kadar 20 dakika falan geçti.</description>
+    </item>
+    <item>
+      <title>ISEF Event</title>
+      <link>//localhost:1313/english/post/isef_travel/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/isef_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;The time has finally come.&#xA;Day 1 - Travel We arrived at the airport without any issues in the morning. We&amp;rsquo;ll wait for about an hour.&#xA;I got called from the counter.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Englishes on </title>
+    <link>//localhost:1313/english/</link>
+    <description>Recent content in Englishes on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISEF Event</title>
+      <link>//localhost:1313/english/post/isef_travel/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/isef_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;The time has finally come.&#xA;Day 1 - Travel We arrived at the airport without any issues in the morning. We&amp;rsquo;ll wait for about an hour.&#xA;I got called from the counter.</description>
+    </item>
+    <item>
+      <title>ISTF Event</title>
+      <link>//localhost:1313/english/post/istf_travel/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/istf_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;Day 1 Not day 0 because there are half-day activities upon arrival.&#xA;We woke up at 3 AM and arrived in Izmir. I took the Izmir-SAW flight without any issues with baggage or transitions.</description>
+    </item>
+    <item>
+      <title>EUCYS Competition</title>
+      <link>//localhost:1313/english/post/eucys_travel/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/eucys_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;Day 0 - Travel First. Time. Just myself. Plane. Crazy stuff. It&amp;rsquo;s 2:40 AM. Left my friends about an hour ago. I&amp;rsquo;ve headed to the airport. Passed through the first entrance gate.</description>
+    </item>
+    <item>
+      <title>2204A 2023 Türkiye Finals</title>
+      <link>//localhost:1313/english/post/2204a_2023_travel/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/2204a_2023_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;Day 0 - Saturday Night Bus ride. It had been a long time since I last took a bus. But sitting in a single seat is comfortable, more spacious than I expected.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/english/page/about/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/page/about/</guid>
+      <description>My full name is Burak Sina Akbudak, though I prefer to be called just Sina. I&amp;rsquo;m a passionate Music Information Retrieval (MIR) researcher (or at least I want to be!). I speak Turkish native and English at professional level. I&amp;rsquo;m currently a student at Bogazici University, Computer Engineering Department.&#xA;My interests can be categorized as follows:&#xA;Music Classical, jazz and math rock music composition Music theory and using this theory knowledge on playing classical, electrical, bass guitars and drums Digital Audio Workstations (DAWs) and signal processing Coding Music modeling using natural language modeling techniques Music information retrieval (MIR), namely the fields of synthetic music generation, singing voice synthesis, text-to-speech Physical simulations using C/C++ (although I still have a lot to learn!</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>//localhost:1313/english/page/archives/</link>
+      <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/page/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>//localhost:1313/english/page/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/page/search/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

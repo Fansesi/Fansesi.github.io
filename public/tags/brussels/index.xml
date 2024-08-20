@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brussels on </title>
+    <link>//localhost:1313/tags/brussels/</link>
+    <description>Recent content in Brussels on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/brussels/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EUCYS Competition</title>
+      <link>//localhost:1313/english/post/eucys_travel/</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/eucys_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;Day 0 - Travel First. Time. Just myself. Plane. Crazy stuff. It&amp;rsquo;s 2:40 AM. Left my friends about an hour ago. I&amp;rsquo;ve headed to the airport. Passed through the first entrance gate.</description>
+    </item>
+  </channel>
+</rss>

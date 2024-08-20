@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>İzmir on </title>
+    <link>//localhost:1313/tags/izmir/</link>
+    <description>Recent content in İzmir on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/izmir/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kafa Dağıtmalık İzmir Gezisi</title>
+      <link>//localhost:1313/turkish/post/izmir_2023_gezi/</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/turkish/post/izmir_2023_gezi/</guid>
+      <description>Bu yazı yalnızca Türkçe olarak paylaşılmıştır. This article is published only in Turkish language.&#xA;Gün 1 - Cuma Cuma öğlen 15.00 gibi bindim trene geldim İzmir’e. Oradan bir durak ötede Konak’a metroyla gidip Ömer Arda Muratoğlu aka 212 (bizim odadan çıkmıyor adam) Ömer ile buluştum. Alt dönem Hikmet de vardı, onu uğurlayıp vapur yaptık. İş çıkışı olmasına rağmen vapur dolmadı, ilginç.&#xA;Evleri Evka-5’te, dağın tepesi bir yerdeymiş. Bir otobüs de oraya yapmak durumunda kaldık.</description>
+    </item>
+  </channel>
+</rss>

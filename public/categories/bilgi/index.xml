@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bilgi on </title>
+    <link>//localhost:1313/categories/bilgi/</link>
+    <description>Recent content in Bilgi on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/bilgi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2204A, EUCYS ve ISEF Süreci Üzerine</title>
+      <link>//localhost:1313/turkish/post/proje_hk/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/turkish/post/proje_hk/</guid>
+      <description>Bu yazı yalnızca Türkçe olarak paylaşılmıştır. This article is published only in Turkish language.&#xA;Baştan sona, her ayrıntısıyla; 2204A, EUCYS ve ISEF.&#xA;Bu kapsamlı yazıda, lise dönemimde yaşamış olduğum 2204A, EUCYS ve ISEF süreçleri sonucunda Türkiye&amp;rsquo;deki bir lise öğrencisinin yapabileceği araştırmalar ve izleyebileceği yollar üzerine bilgiler vermek istiyorum. 2204A&amp;rsquo;dan yazılım bölge ve Türkiye birinciliği, EUCYS&amp;rsquo;ten gerçekten de hiçbir şey ve ISEF&amp;rsquo;ten TECA kategorisinde ikincilik kazanmış birisi olsam da bu bilgileri verebilecek en kalifiyeli insan olduğumu kesinlikle düşünmüyorum, benden çok daha yetkin insanlar olduğuna eminim (hatta tanıyorum).</description>
+    </item>
+  </channel>
+</rss>

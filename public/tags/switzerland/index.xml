@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Switzerland on </title>
+    <link>//localhost:1313/tags/switzerland/</link>
+    <description>Recent content in Switzerland on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/switzerland/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISTF Event</title>
+      <link>//localhost:1313/english/post/istf_travel/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/istf_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;Day 1 Not day 0 because there are half-day activities upon arrival.&#xA;We woke up at 3 AM and arrived in Izmir. I took the Izmir-SAW flight without any issues with baggage or transitions.</description>
+    </item>
+  </channel>
+</rss>

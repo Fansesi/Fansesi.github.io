@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Categories on Stack Theme Configured With Docker</title>
-        <link>http://localhost:1313/categories/</link>
-        <description>Recent content in Categories on Stack Theme Configured With Docker</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+  <channel>
+    <title>Categories on </title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gezi Yazıları</title>
+      <link>//localhost:1313/categories/gezi-yaz%C4%B1lar%C4%B1/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/gezi-yaz%C4%B1lar%C4%B1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel Notes</title>
+      <link>//localhost:1313/categories/travel-notes/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/travel-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bilgi</title>
+      <link>//localhost:1313/categories/bilgi/</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/categories/bilgi/</guid>
+      <description></description>
+    </item>
+  </channel>
 </rss>

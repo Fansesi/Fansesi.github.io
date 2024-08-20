@@ -2,3 +2,32 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Stack Theme Configured With Docker'
 theme = 'hugo-theme-stack'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.tr]
+  contentDir = 'content/turkish'
+  disabled = false
+  languageCode = 'tr-TR'
+  languageDirection = 'ltr'
+  languageName = 'Türkçe'
+  title = 'Burak Sina Akbudak'
+  weight = 2
+  [languages.tr.params]
+  subtitle = 'Kişisel Websitesi'
+  description = 'Türkçe'
+  
+  [languages.en]
+  contentDir = 'content/english'
+  disabled = false
+  languageCode = 'en-US'
+  languageDirection = 'ltr'
+  languageName = 'English'
+  title = 'Burak Sina Akbudak'
+  weight = 1
+  [languages.en.params]
+  subtitle = 'Reference, Tutorials, and Explanations'
+  description = 'English description'
+    

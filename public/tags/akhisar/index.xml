@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akhisar on </title>
+    <link>//localhost:1313/tags/akhisar/</link>
+    <description>Recent content in Akhisar on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/akhisar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Akhisar Gezisi</title>
+      <link>//localhost:1313/turkish/post/akhisar_2023_gezi/</link>
+      <pubDate>Sat, 08 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/turkish/post/akhisar_2023_gezi/</guid>
+      <description>Bu yazı yalnızca Türkçe olarak paylaşılmıştır. This article is published only in Turkish language.&#xA;Gün 1 Sabah kalktım, iki üç bi şey atıştırdım, atladım trene. Yolculuk güzeldi benim için ama Safa’nın tren kalkmadı, o otobüsle geldi. Ama yine de tam zamanında geldi. Onla tren garında buluşunca ilk iş Zuhal’e gittik. Gitarın köprüsünde problem varmış o yüzden harici bi adama vereceklermiş gitarı. Parayı da ona ödeyeceğim.&#xA;Sonrasında rüzgar bizi nereye götürürse biz oraya, baya bir yürüdük.</description>
+    </item>
+  </channel>
+</rss>

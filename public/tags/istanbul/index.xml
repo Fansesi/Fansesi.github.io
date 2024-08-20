@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>İstanbul on </title>
+    <link>//localhost:1313/tags/istanbul/</link>
+    <description>Recent content in İstanbul on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/istanbul/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>İstanbul Üniversite Gezisi</title>
+      <link>//localhost:1313/turkish/post/ist_uni_gezi/</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/turkish/post/ist_uni_gezi/</guid>
+      <description>Bu yazı yalnızca Türkçe olarak paylaşılmıştır. This article is published only in Turkish language.&#xA;Gün 0 - Çarşamba Akşamı Yolculuk hazırlığı. Bir halı sahanın ardından eşyaları toplayış ve filme dair son dokunuşları hallediş.&#xA;Yolculuk başladı. Uzun olacak ama keyifli olacak gibi.&#xA;İlk bir 20 dakika Ömer&amp;rsquo;le benim kulaklıkları hallettik. Allah&amp;rsquo;tan oldu. Sonrasında da 1 saat 15 dakika falan film izledik. Temposu biraz ağır, anlattığı da biraz durağan olduğundan dolayı sanırım çok da akıcı değildi.</description>
+    </item>
+  </channel>
+</rss>

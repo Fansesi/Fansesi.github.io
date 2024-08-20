@@ -4,6 +4,9 @@ toggleMenu:
 darkMode:
     other: Dark Mode
 
+subtitle:
+    other: Music, CS, music with CS, math and 3D art. As well as travel notes.
+
 list:
     page:
         one: "{{ .Count }} page"

@@ -21,19 +21,20 @@ params:
     sidebar:
         compact: false
         emoji:
-        subtitle:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: pp/pp_916x916.jpg
+        # I have followed these steps: https://github.com/CaiJimmy/hugo-theme-stack/issues/1018 and do it multilingual.
+        # subtitle: "Music, CS, music with CS, math and 3D art. As well as travel notes."
 
     article:
         headingAnchor: false
-        math: false
+        math: true
         toc: true
         readingTime: true
         license:
-            enabled: false
+            enabled: true
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
@@ -118,20 +119,19 @@ params:
             id:
 
     widgets:
-        homepage: []
-        page: []
-
-    opengraph:
-        twitter:
-            # Your Twitter username
-            site:
-
-            # Available values: summary, summary_large_image
-            card: summary_large_image
-
-    defaultImage:
-        opengraph:
-            enabled: false
+        homepage:
+            - type: search
+            - type: archives
+              params:
+                  limit: 5
+            - type: categories
+              params:
+                  limit: 10
+            - type: tag-cloud
+              params:
+                  limit: 10
+        page:     page: 
+         - type: toc 
             local: false
             src:
 
@@ -147,3 +147,64 @@ params:
             enabled: true
         content:
             enabled: true
+
+menu: 
+    social:
+        -  identifier: github
+           name: GitHub
+           url: https://github.com/Fansesi
+           params:
+             icon: brand-github
+
+        -  identifier: linkedin
+           name: Linkedin
+           url: https://www.linkedin.com/in/burak-sina-akbudak-2407a227b/
+           params:
+              icon: brand-linkedin
+
+        -  identifier: youtube
+           name: Youtube
+           url: https://www.youtube.com/@buraksinaakbudak
+           params:
+              icon: brand-youtube
+        
+        -  identifier: instagram
+           name: Instagram
+           url: https://www.instagram.com/sina.akbdk/
+           params:
+              icon: brand-instagram
+
+        -  identifier: mail
+           name: Mail
+           url: mailto:buraksinaakbudak@gmail.com
+           params:
+              icon: mail
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
+
+markup:
+    goldmark:
+        renderer:
+            ## Set to true if you have HTML content inside Markdown
+            unsafe: true
+    tableOfContents:
+        endLevel: 5
+        ordered: true
+        startLevel: 1
+    highlight:
+        noClasses: false
+        codeFences: true
+        guessSyntax: true
+        lineNoStart: 1
+        lineNos: true
+        lineNumbersInTable: true
+        tabWidth: 4

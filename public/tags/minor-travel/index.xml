@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minor Travel on </title>
+    <link>//localhost:1313/tags/minor-travel/</link>
+    <description>Recent content in Minor Travel on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/minor-travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2204A 2023 Türkiye Finals</title>
+      <link>//localhost:1313/english/post/2204a_2023_travel/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/english/post/2204a_2023_travel/</guid>
+      <description>Note (EN): If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.&#xA;Not (TR): Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.&#xA;Day 0 - Saturday Night Bus ride. It had been a long time since I last took a bus. But sitting in a single seat is comfortable, more spacious than I expected.</description>
+    </item>
+  </channel>
+</rss>

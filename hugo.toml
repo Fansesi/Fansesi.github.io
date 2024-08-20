@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://fansesi.github.io'
 languageCode = 'en-us'
-title = 'Stack Theme Configured With Docker'
+title = 'Burak Sina Akbudak'
 theme = 'hugo-theme-stack'
 
 defaultContentLanguage = 'en'

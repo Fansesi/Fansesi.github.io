@@ -131,9 +131,9 @@ params:
               params:
                   limit: 10
         page:
-         - type: toc 
-            local: false
-            src:
+            - type: toc 
+              local: false
+              src:
 
     colorScheme:
         # Display toggle

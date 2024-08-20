@@ -20,15 +20,17 @@
      
      
     :root {
-        --article-font-family: "Merriweather", var(--base-font-family);
+        --base-font-family: "Roboto";  
+         
     }
 </style>
 
 <script>
     (function () {
         const customFont = document.createElement('link');
-        customFont.href = "https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap";
-    
+        
+        customFont.href = "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap";
+        
         customFont.type = "text/css";
         customFont.rel = "stylesheet";
     

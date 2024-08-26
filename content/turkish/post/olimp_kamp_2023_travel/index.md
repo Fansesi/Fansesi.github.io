@@ -26,7 +26,7 @@ Varınca gara, bir servisle otele geldik. Bizimkiler gelmiş önceden, onlarla h
 
 Kahvaltı yaptık. Git gide yemek düzme sanatında ustalaşıyorum. 
 
-![Bizim takım.](2.webp)
+![Bizim takım. Fotoğrafı Milascığım çekiyor.](2.webp)
 
 Sabahtan sonlu yaptık Azer Hocayla. Sonra öğle yemeği ve ardından Sönmez'le geo. Sonlu yapamıyorum ama uğraştım full. Geo yaptım baya. Dersler bitince boş zamanda sunum çalıştım. Akşam da etüt. Etüte giren eleman maalesef pek iyi değildi. Sorularını çözdüm çoğunlukla da, çok da iyi değildi yani. Bir de akşam yemekten sonra etüt biraz zorluyor. Sonra İstanbul tayfayla voleybol izledik. Sonunu beklemeden çıktım yukarı sunum çalışmaya. Sonra zaten Ömer geldi, azcık daha durup yattık.
 

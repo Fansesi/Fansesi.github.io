@@ -653,6 +653,10 @@ Ama şahsen benim çok merak ettiğim durumlar, sorular ve davranışlar var. Bi
 
 ## Son Sözler ve Kapanış
 
+<<<<<<< HEAD
 Bu deneyimleri edinmemde ve bu başarıları kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Bir o kadar da TÜBİTAK'a ve okuluma beni bu uzun yolda destekledikleri için minnetarım. Ayrıca bana bu yazının editörlüğünde yardımcı olan arkadaşlarıma teşekkürlerimi sunuyorum!
+=======
+Bu deneyimleri edinmemde ve bu başarıları kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Bir o kadar da TÜBİTAK'a ve okuluma beni bu uzun yolda destekledikleri için minnetarım. Ayrıca bana bu yazının editörlüğünde yardımcı olan Nazire, Leylek ve Nisa'ya teşekkürlerimi sunuyorum!
+>>>>>>> 291e929 (2204A fix.)
 
 Eğer yazıda yazım veya bilgi hatası bulursanız, yazıda bulunan bilgiler güncelliğini yitirmişse (ki gün geçtikçe yitirecektir eminim) iletişim geçip bildirmenizi rica ediyorum. Böylece bu sürece yeni başlayan veya ortalarında olup da kafası karışan öğrenciler en doğru şekilde bilgilenebilir. Teşekkürler!

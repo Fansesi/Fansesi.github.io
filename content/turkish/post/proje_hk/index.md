@@ -18,7 +18,9 @@ weight: 1
 
 Bu kapsamlı yazıda, lise dönemimde yaşamış olduğum 2204A, EUCYS ve ISEF süreçleri sonucunda Türkiye'deki bir lise öğrencisinin yapabileceği araştırmalar ve izleyebileceği yollar üzerine bilgiler vermek istiyorum. Bu yolculukta 2204A'dan yazılım bölge ve Türkiye birinciliği, EUCYS'ten gerçekten de hiçbir şey ve ISEF'ten TECA kategorisinde ikincilik kazanmış birisiyim ve bu süreçlerin halen daha yeterince iyi bilinmediğini düşündüğümden dolayı elimden geldiğince deneyimlerimi paylaşmak istiyorum. Şimdi geriye dönüp baktığımda, sürecin en başındayken oradan buradan duyduğum kulaktan dolma bilgiler dışında süreç hakkında oldukça az bilgim vardı. Hep adım adım ilerleyip bir sonraki adıma kadar ne yapmam gerektiğini öğrenerek ilerledim. Tüm süreci deneyimlemiş biriyle konuşma fırsatım olmamıştı. Umarım bu sürece yeni başlayanlar veya sürecin ortasında kafası karışık öğrenciler için yararlı bir yazı olur.
 
-Başlamadan hemen önce son olarak belirtmek istediğim bir durum var: o da bu yazının her zaman güncel olmayacağı. Dinamik bir dünyada yaşıyoruz, bu dinamiklik 2204A, EUCYS ve ISEF süreçleri için de geçerli. Dolayısıyla sizin tecrübenizin burada anlatılanlardan farklı olma olasılığı oldukça yüksek. Resmi süreçler hakkında (Yarışma kurallarının değişmesi, EUCYS seçmesi yapılıp yapılmaması, ISEF için elemelerin ne zaman yapılacağı, TÜBİTAK toplantılarının içerikleri, poster büyüklüğü, sunum süreleri gibi detaylar vb.) en güncel bilgi kaynağı TÜBİTAK ve yarışmaların sitesidir. Bu yazıyı yalnızca fikir edinmek için kullanın, direkt izlenmesi gereken bir kılavuz gibi değil.  
+Başlamadan hemen önce son olarak belirtmek istediğim bir durum var: o da bu yazının her zaman güncel olmayacağı. Dinamik bir dünyada yaşıyoruz, bu dinamiklik 2204A, EUCYS ve ISEF süreçleri için de geçerli. Dolayısıyla sizin tecrübenizin burada anlatılanlardan farklı olma olasılığı oldukça yüksek. Resmi süreçler hakkında (Yarışma kurallarının değişmesi, EUCYS seçmesi yapılıp yapılmaması, ISEF için elemelerin ne zaman yapılacağı, TÜBİTAK toplantılarının içerikleri, poster büyüklüğü, sunum süreleri gibi detaylar vb.) en güncel bilgi kaynağı TÜBİTAK ve yarışmaların sitesidir. Bu yazıyı yalnızca fikir edinmek için kullanın, direkt izlenmesi gereken bir kılavuz gibi değil.
+
+Ayrıca süreç hakkında bilgi almaktansa belirli sorularınıza cevap arıyorsanız [Bazı Sorular ve Cevapları (S.S.S. gibi)](#bazı-sorular-ve-cevapları-sss-gibi) kısmına göz atabilirsiniz!
 
 En temel soruyla başlayalım o zaman:
 
@@ -164,7 +166,7 @@ Bölge sergisi her sene bölgenin içine aldığı bir ilde düzenleniyor. O ild
 
 Son dönemlerde (2024-2025 için) tasarruf tedbirleri kapsamında bölge sergilerinin online yapılacağı söylentisi bulunuyor. Dolayısıyla yukarıda söylediklerim tarih olabilir. 
 
-Bence her ne kadar aşırı zor olsa da bir bölge sergisinde yapılmaması ve yapılması gerekenler şöyle:
+Bence her ne kadar zor olsa da, bir bölge sergisinde yapılmaması ve yapılması gerekenler şöyle:
 
 *Ne yapılmamalı:*
 - Kendi alanınızdan insanları kişilikleriyle değil, projeleriyle değerlendirmek.
@@ -234,7 +236,7 @@ Daha dün gibi hatırlıyorum: cuma günü sabahtan ödül töreni yapıldı, ö
 
 EUCYS için başvuru dönemi, genelde TÜBİTAK final aşamasında ödülleri dağıttıktan önce olur. Ancak Türkiye başvuru için ek süre ister ve bu ek süre bir veya iki hafta gibi kısa bir süredir. Bu süre içerisinde raporunuzu İngilizceye çevirmeli, şekil ve tablolarınızı düzenlemeli, kimliğiniz ve projeniz hakkında bir sürü form doldurmalı ve projenizi anlatan bir video çekmelisiniz. Bunları TÜBİTAK yetkililerine ilettikten sonra ise TÜBİTAK yetkilileri ile bir bilgilendirme toplantısı yapacaksınız ve TÜBİTAK beraber çalışmak istediğiniz bir akademisyeni görevlendirecek. Bu toplantıyla beraber EUCYS süreciniz başlamıştır, tüm katılımcılar ve Türkiye için hayırlısı olsun. 
 
-**NOT:** Danışman akademisyen seçimi hem ISEF'te hem de EUCYS'te olduğundan dolayı akademisyen seçimi üzerine yazdığım başlığı "Diğer/Danışman akademisyen hakkında" başlığı altında verdim. Bir sonraki başlığa geçmeden önce o başlığı okuyunuz.
+**NOT:** Danışman akademisyen seçimi hem ISEF'te hem de EUCYS'te olduğundan dolayı akademisyen seçimi üzerine yazdığım başlığı [Danışman akademisyen hakkında](#danışman-akademisyen-hakkında) başlığı altında verdim. Bir sonraki başlığa geçmeden önce o başlığı okuyunuz.
 
 ### EUCYS'e kadar yapılması gerekenler 
 Bu süreçte yapılması gerekenleri madde madde inceleyelim:
@@ -259,7 +261,7 @@ Burada neler yapmanız ve yapmamanız gerektiğini yinelemek istiyorum:
 - Kös kös oturup sürekli jürilerin gelmesini beklemek (jüri sistemi farklı, aşağıda açıklayacağım).
 - Kimseyle adamakıllı tanışmamak/konuşmamak.
 - İngilizceden konuşmaktan çekinmek.
-	- Bunu hakkında daha detaylı bilgi için "Diğer/İngilizce hakkında" bölümüne bakabilirsiniz. 
+	- Bunu hakkında daha detaylı bilgi için [İngilizce hakkında](#i̇ngilizce-hakkında) bölümüne bakabilirsiniz. 
 
 *Ne yapılsa daha iyi:*
 - Eğer projede tek başınızaysanız hızlıca arkadaş (en kolayı sağ, sol veya karşı stanttaki insanlar olacaktır) edinin.
@@ -305,7 +307,7 @@ Alanınız dışında da jüri gelecektir. 5 jüri alırsanız tahminimce 1-2'si
 Bu söylediklerim dışında zaten 2204A süreci boyunca nasıl sunum yapılması gerektiğini, nelere dikkat etmeniz gerektiğini gayet iyi anladığınızı tahmin ediyorum. Uluslararası jürilerde de benzer şeyler geçerli. Probleminizi, amacınızı, metotlarınızı ve bulgularınızı güzelce sunup sorulara da net ve temiz cevaplar verdiğiniz takdirde elinizden geleni yapmışsınızdır demektir.
 
 ### EUCYS sonunda...
-- **Ödül aldıysanız:** Tebrikler! EUCYS'ten ödül alan sayılı Türk'ün (maalesef oldukça az Türk ödül alıyor) arasına girdiniz. Sınavsız geçiş hakkı, ek puan ve lisansta burs imkanınız var. ISEF için (tabi seçildiyseniz) oldukça rahat bir şekilde çalışabilir ve ISEF etkinliğindeyken gerçekten etkinlikten inanılmaz zevk alabilirsiniz. (EUCYS'e gitmeyenler veya kazanamayanlar zevk alamaz demek değil tabii ki!) 
+- **Ödül aldıysanız:** Tebrikler! EUCYS'ten ödül alan sayılı Türk'ün (maalesef oldukça az Türk ödül alıyor) arasına girdiniz. Sınavsız geçiş hakkı, ek puan ve lisansta burs imkanınız var. ISEF için (tabi seçildiyseniz) oldukça rahat bir şekilde çalışabilir ve ISEF etkinliğindeyken gerçekten etkinlikten inanılmaz zevk alabilirsiniz (EUCYS'e gitmeyenler veya kazanamayanlar zevk alamaz demek değil tabii ki!). Sınavsız geçiş kullanacaksanız *Bazı Sorular ve Cevapları* kısmındaki *Sınavsız geçiş süreci tam olarak nasıl işliyor?* kısmına bakabilirsiniz. [[ISEF Seçmeleri Hakkında]]
 - **Ödül alamadıysanız:** Canınız sağ olsun, canımız sağ olsun. ISEF için (tabi seçildiyseniz) inanılmaz büyük deneyimler edindiniz. İngilizce sunum, poster sunumu yapmak, uluslararası etkinliğe katılmak gibi paha biçilemez tecrübeler kazandınız.
 
 EUCYS'te edindiğiniz arkadaşlıkları ISEF'te (tabi seçildiyseniz) devam ettirmeniz mümkün, hem Türk EUCYS katılımcılarıyla hem de yabancılarla. Tavsiyem, ister ödül alın ister almayın, yarışma geçtikten sonra artık geçmişe daha fazla bakmayıp önünüzdeki işlere odaklanmak. 
@@ -418,7 +420,7 @@ Burada etkinlik boyunca neler yapmanız ve yapmamanız gerektiğini yinelemek is
 - Kös kös oturup jüri gününe kadar sürekli telefonla/bilgisayarla oynamak.
 - Kimseyle adamakıllı tanışmamak/konuşmamak.
 - İngilizceden konuşmaktan çekinmek.
-	- Bunu hakkında daha detaylı bilgi için "Diğer/İngilizce hakkında" bölümüne bakabilirsiniz. 
+	- Bunu hakkında daha detaylı bilgi için [İngilizce hakkında](#i̇ngilizce-hakkında) bölümüne bakabilirsiniz. 
 
 *Ne yapılsa daha iyi:*
 - Eğer projede tek başınızaysanız hızlı bir şekilde arkadaş (en kolayı sağ, sol veya karşı stanttaki insanlar olacaktır) edinin.
@@ -603,7 +605,7 @@ Hangi sınıf olursanız olun, okulunuzdaki veya yakınınızdaki insanların da
 
 ### Ben X kategorisinden katıldım, projemde Y alanından oldukça yararlanıyorum ve tematik alanımı Y ile benzer seçtim. TÜBİTAK ek puanı X alanından verecek ancak ben Y ile ilgili bir bölüm okumak istiyorum.  
   
-Bu da oldukça tartışmalı bir durum. Öğrenci disiplinler arası bir proje yapıp projenin tam olarak nereye daha çok uyacağından emin olmadan yanlış tercih yapıp veya daha ağır basan alanı ana alan seçip daha hafif olanı tematik alan olarak seçmiş olabilir. Bu soruyu sorduğu ve sonucunda hiçbir şey yapılmadığını gördüğü zaman tematik alanın hiçbir işe yaramadığını düşünebilir. ("2204A için: Tematik alan da ne?"  sorusunda amacını açıklamaya çalıştım.)  
+Oldukça tartışmalı bir durum. Öğrenci disiplinler arası bir proje yapıp projenin tam olarak nereye daha çok uyacağından emin olmadan yanlış tercih yapıp veya daha ağır basan alanı ana alan seçip daha hafif olanı tematik alan olarak seçmiş olabilir. Bu soruyu sorduğu ve sonucunda hiçbir şey yapılmadığını gördüğü zaman tematik alanın hiçbir işe yaramadığını düşünebilir. ("2204A için: Tematik alan da ne?"  sorusunda amacını açıklamaya çalıştım.)  
   
 Umalım ki TÜBİTAK, ÖSYM ile disiplinler arası projeler hakkında bir uzlaşıya varabilsin de bu durumda olan öğrenciler hak ettikleri ödülden yararlansın.  
   
@@ -624,6 +626,7 @@ Kutup ve iklim proje yarışmalarına girmek aslında size 2204A'dan kazanabilec
 Şahsi tavsiyem, 9 ve/veya 10. sınıfta 2204A yanında 2204C veya 2204D'nin yapılması. Veya 2204A yapmayıp ilk ısınma turu olarak da denenebilir.
 
 ### 2204A mı Teknofest mi?
+
 Teknofest Türkiye'deki savunma sanayii firmaları için birebir. Eğer ileride bu firmalarla çalışmak/staj yapmak istiyorsanız en basit kategorisine bile girseniz oldukça yararınıza. Ayrıca lise döneminde para kazanmanın güzel bir yolu. Ancak yurt dışı başvuruları veya ilerideki savunma sanayii dışı alanlarda ne kadar işinize yarar emin olamıyorum. Teknofest için yaptığınız projeyi muhtemelen ilerletip, özgünleştirip, makale vb. yollarla onaylatmanız daha çok işinize yarayacaktır.  
   
 Soruya gelecek olursam, Teknofest size kısa vadede çok şey kazandıracaktır evet ancak uzun vadeli bir araştırma projesi için kesinlikle 2204A derim. Güzel bir 2204A projesi üzerine çalışırken hobi olarak Teknofest yapmak mümkün. Hatta bence en ideali iki kişi 2204A yaparken gruba katılacak diğer bir kişi ile Teknofest yapılabilir, Teknofest işleri çok ağır olmadığından ötürü yeni katılan kişi rapor/tarih kaçırmama vs. ile uğraşırken diğer iki kişi tamamen teknik kısımlara ve sunum (eğer Teknofest kategorisinde varsa) vs. uğraşabilir.
@@ -634,29 +637,24 @@ Bakmanız gereken şeyler:
 
 - **Süre:** Gerçekçi bir şekilde bitiş tarihine kadar yapmanız gereken
 - **Zorluk:** Yeterli zamanda hemen her şeyi başarabilirsiniz ancak imkanlar her zaman elinizde bulunmayabilir.
-- bilgi birikimi ihtiyacı  
-- gerçekten değip değmeyeceği.
+- **Bilgi birikimi**: Kimi yarışmanın gerektirdiklerini birkaç haftada öğrenemezsiniz.
+- **Gerçekten değip değmeyeceği**: Her yarışma size 2204A kadar şey katmaz. Kimisi 2204A'nın yanında daha az prestijli veya önemli olabilir.
 
 Bu 4 maddenin hangisinin daha ağır basacağı, hangisinin kararınızı etkileyeceği vs. X yarışmasına ve size bağlı tabi ki.
 
-### Bu süreçte gereksiz derece çılgın şeyler yapılabilir mi?
-Yapmayın, hiç gerek yok. Farklı olacağım diye rayın dışına çıkmanın çok bir manası yok. 
+### Sınavsız geçiş süreci tam olarak nasıl işliyor?
 
-Ama şahsen benim çok merak ettiğim durumlar, sorular ve davranışlar var. Birilerinin yapması için değil de kendim için listelemiş olayım:
+Öncelikle sınavsız geçiş hakkı kazandığınız için tebrikler! Bu süreçte neler yapmanız gereken ISEF/EUCYS grubundan sizlere bildirilecektir zaten. Ancak birkaç belirsizliği gidermiş olmak istiyorum:
 
-- 2204A'da proje rapor yerine direkt sağlam bir dergide yayınlanmış makalenizi yollamak.
-	- Direkt reddedebileceklerini düşünmüyorum ancak yüksek puan vermezler rapordan herhalde?
-- 2204A sunumlarında sunum dosyasız sunmak.
-	- Gayet mümkün olması lazım ancak oldukça zor. Hele ki elinizde çok somut bir şey yoksa.
-- 2204A için poster hazırlamamak.
-	- Teknik olarak posterin jürilere çok bir katkısı yok?
+- Sınavsız geçiş için e-bideb'den gerekli formu yollayıp TÜBİTAK'a yollayacaksınız. Bu aşama zaten gayet net.
+- TÜBİTAK'ın eline vardığına emin olduktan sonra **hiçbir hamlede bulunmanıza gerek yok**. 
+	- Eğer sınava girdiyseniz tercih döneminde tercih ekranını görebileceksinizdir. Tercih listeniz boş olmalı.
+- TÜBİTAK'a, gerekli belgeleri ÖSYM'ye ulaştırıp ulaştırmadıkları hakkında mesaj atabilirsiniz ancak ÖSYM ile iletişime geçmeniz mümkün değil (2024 itibariyle söylüyorum, belki ileride politaka değiştirirler ancak hiç sanmıyorum). 
+	- Mail adresi, telefon numarası (sitelerinde yazan numara bir çalışana aktarmıyor.) vb. ulaşabileceğiniz hiçbir kaynak bulunmuyor. 
+- Yerleşmeler açıklandığı zaman siz de ÖSYM'nin sitesine girip yerleştiğinizden emin olabilirsiniz. Yerleşme türünde "Genel" değil "TÜBİTAK" yazacaktır.    
 
 ## Son Sözler ve Kapanış
 
-<<<<<<< HEAD
-Bu deneyimleri edinmemde ve bu başarıları kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Bir o kadar da TÜBİTAK'a ve okuluma beni bu uzun yolda destekledikleri için minnetarım. Ayrıca bana bu yazının editörlüğünde yardımcı olan arkadaşlarıma teşekkürlerimi sunuyorum!
-=======
-Bu deneyimleri edinmemde ve bu başarıları kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Bir o kadar da TÜBİTAK'a ve okuluma beni bu uzun yolda destekledikleri için minnetarım. Ayrıca bana bu yazının editörlüğünde yardımcı olan Nazire, Leylek ve Nisa'ya teşekkürlerimi sunuyorum!
->>>>>>> 291e929 (2204A fix.)
+Bu deneyimleri edinmemde ve bu başarıları kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Bir o kadar da TÜBİTAK'a ve okuluma beni bu uzun yolda destekledikleri için minnetarım. Ayrıca bu yazının editörlüğünde bana yardımcı olan Nazire, Leylek ve Nisa'ya teşekkürlerimi sunuyorum!
 
-Eğer yazıda yazım veya bilgi hatası bulursanız, yazıda bulunan bilgiler güncelliğini yitirmişse (ki gün geçtikçe yitirecektir eminim) iletişim geçip bildirmenizi rica ediyorum. Böylece bu sürece yeni başlayan veya ortalarında olup da kafası karışan öğrenciler en doğru şekilde bilgilenebilir. Teşekkürler!
+Eğer yazıda yazım veya bilgi hatası bulursanız, yazıda bulunan bilgiler güncelliğini yitirmişse (ki gün geçtikçe yitireceğine eminim) iletişim geçip bildirmenizi beni çok mutlu edecektir. Böylece bu sürece yeni başlayan veya ortalarında olup da kafası karışan öğrenciler en doğru şekilde bilgilenebilir. Teşekkürler!

@@ -17,8 +17,9 @@
 This article is published only in Turkish language.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;Baştan sona, her ayrıntısıyla; 2204A, EUCYS ve ISEF.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Bu kapsamlı yazıda, lise dönemimde yaşamış olduğum 2204A, EUCYS ve ISEF süreçleri sonucunda Türkiye&amp;rsquo;deki bir lise öğrencisinin yapabileceği araştırmalar ve izleyebileceği yollar üzerine bilgiler vermek istiyorum. 2204A&amp;rsquo;dan yazılım bölge ve Türkiye birinciliği, EUCYS&amp;rsquo;ten gerçekten de hiçbir şey ve ISEF&amp;rsquo;ten TECA kategorisinde ikincilik kazanmış birisi olsam da bu bilgileri verebilecek en kalifiyeli insan olduğumu kesinlikle düşünmüyorum, benden çok daha yetkin insanlar olduğuna eminim (hatta tanıyorum). Ancak bu süreçlerin halen daha yeterince iyi bilinmediğini düşündüğümden dolayı elimden geldiğince deneyimlerimi paylaşmak istiyorum. Şimdi geriye dönüp baktığımda, sürecin en başındayken oradan buradan duyduğum kulaktan dolma bilgiler dışında süreç hakkında oldukça az bilgim vardı. Hep adım adım ilerleyip bir sonraki adıma kadar ne yapmam gerektiğini öğrenerek ilerledim. Tüm süreci deneyimlemiş biriyle konuşma fırsatım olmamıştı. Umarım bu sürece yeni başlayanlar veya sürecin ortasında kafası karışık öğrenciler için yararlı bir yazı olur.&lt;/p&gt;
+&lt;p&gt;Bu kapsamlı yazıda, lise dönemimde yaşamış olduğum 2204A, EUCYS ve ISEF süreçleri sonucunda Türkiye&amp;rsquo;deki bir lise öğrencisinin yapabileceği araştırmalar ve izleyebileceği yollar üzerine bilgiler vermek istiyorum. Bu yolculukta 2204A&amp;rsquo;dan yazılım bölge ve Türkiye birinciliği, EUCYS&amp;rsquo;ten gerçekten de hiçbir şey ve ISEF&amp;rsquo;ten TECA kategorisinde ikincilik kazanmış birisiyim ve bu süreçlerin halen daha yeterince iyi bilinmediğini düşündüğümden dolayı elimden geldiğince deneyimlerimi paylaşmak istiyorum. Şimdi geriye dönüp baktığımda, sürecin en başındayken oradan buradan duyduğum kulaktan dolma bilgiler dışında süreç hakkında oldukça az bilgim vardı. Hep adım adım ilerleyip bir sonraki adıma kadar ne yapmam gerektiğini öğrenerek ilerledim. Tüm süreci deneyimlemiş biriyle konuşma fırsatım olmamıştı. Umarım bu sürece yeni başlayanlar veya sürecin ortasında kafası karışık öğrenciler için yararlı bir yazı olur.&lt;/p&gt;
 &lt;p&gt;Başlamadan hemen önce son olarak belirtmek istediğim bir durum var: o da bu yazının her zaman güncel olmayacağı. Dinamik bir dünyada yaşıyoruz, bu dinamiklik 2204A, EUCYS ve ISEF süreçleri için de geçerli. Dolayısıyla sizin tecrübenizin burada anlatılanlardan farklı olma olasılığı oldukça yüksek. Resmi süreçler hakkında (Yarışma kurallarının değişmesi, EUCYS seçmesi yapılıp yapılmaması, ISEF için elemelerin ne zaman yapılacağı, TÜBİTAK toplantılarının içerikleri, poster büyüklüğü, sunum süreleri gibi detaylar vb.) en güncel bilgi kaynağı TÜBİTAK ve yarışmaların sitesidir. Bu yazıyı yalnızca fikir edinmek için kullanın, direkt izlenmesi gereken bir kılavuz gibi değil.&lt;/p&gt;
+&lt;p&gt;Ayrıca süreç hakkında bilgi almaktansa belirli sorularınıza cevap arıyorsanız &lt;a class=&#34;link&#34; href=&#34;#baz%c4%b1-sorular-ve-cevaplar%c4%b1-%28S.S.S.-gibi%29&#34; &gt;Bazı Sorular ve Cevapları (S.S.S. gibi)&lt;/a&gt; kısmına göz atabilirsiniz!&lt;/p&gt;
 &lt;p&gt;En temel soruyla başlayalım o zaman:&lt;/p&gt;
 &lt;h2 id=&#34;neden-2204a-proje-yarışmasına-katılmalıyım&#34;&gt;Neden 2204A proje yarışmasına katılmalıyım?
 &lt;/h2&gt;&lt;p&gt;TÜBİTAK&amp;rsquo;ın ağzından daha resmi bir şekilde okumak isterseniz &lt;a class=&#34;link&#34; href=&#34;https://tubitak.gov.tr/tr/yarismalar/2204-lise-ogrencileri-arastirma-projeleri-yarismasi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -44,12 +45,12 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;li&gt;Ortaokulda iken o yaz tren kazaları çok olmuştu sıcaktan dolayı. Ben de bu konuda bir şeyler yapabilir miyim diye düşündüm vs. Gerçek olaydan doğan bir proje, gayet temel bir yaklaşım.&lt;/li&gt;
 &lt;li&gt;
 &lt;ol start=&#34;10&#34;&gt;
-&lt;li&gt;sınıfta 2204A&amp;rsquo;ya katılmak istiyordum. Bir sürü farklı ilgimi çeken alan hakkında (&lt;em&gt;computer vision&lt;/em&gt; ile ilgilenenler için birkaçını saymış olayım: &lt;em&gt;pose estimation, object detection, object tracking, image classification&lt;/em&gt;&amp;hellip;) elimden geldiğince geniş araştırmalar/okumalar yaptım. Yaklaşık iki hafta içerisinde tavuklarla ilgili proje fikri ortaya atabilmiştim. Aşırı iyi olmadığının farkındaydım, finallere gitsem yeter de artar diye düşünüyordum. Ancak bölgede üçüncüsü oldum, finallere gidemedim.&lt;/li&gt;
+&lt;li&gt;sınıfta 2204A&amp;rsquo;ya katılmak istiyordum. Bir sürü farklı ilgimi çeken alan hakkında (&lt;em&gt;computer vision&lt;/em&gt; ile ilgilenenler için birkaçını saymış olayım: &lt;em&gt;pose estimation, object detection, object tracking, image classification&lt;/em&gt;&amp;hellip;) elimden geldiğince geniş araştırmalar/okumalar yaptım. Yaklaşık iki hafta içerisinde tavuklarla ilgili proje fikri ortaya atabilmiştim. Aşırı iyi olmadığının farkındaydım, finallere gitsem yeter de artar diye düşünüyordum. Ancak bölgede üçüncü oldum, finallere gidemedim.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;ol start=&#34;11&#34;&gt;
-&lt;li&gt;sınıftaki projem için ise 10. sınıf bittiği dönemlerle başlamıştım. Bu sefer elimdekinin en iyisini yapmam gerekiyordu çünkü 12. sınıfta katılmak çok mantıksız geliyordu (ki hala aynı fikirdeyim). Yazın ortasına kadar, yaklaşık 2 ay, araştırma/okuma yaptım (ilgilenenler için birkaç alan: &lt;em&gt;synthetic audio generation, synthetic image generation with medical GANs, 2D to 3D mesh creation&lt;/em&gt;&amp;hellip;). O zamanlar Notion kullanmaya başladığımdan ötürü okuduğum hemen her şeyi not almıştım. Ve günün sonunda gerçekten ilgimi çeken hayalimdeki projeyi/soruyu bulmuştum: sentetik klasik gitar müziği üretebilir miyim? Tabi ki de farklı enstrümanlar için bir sürü AI modeli vardı ancak ben klasik gitar özelinde başarısız oldukları kanaatindeydim. Sonra olan oldu zaten.&lt;/li&gt;
+&lt;li&gt;sınıftaki projem için ise 10. sınıf bittiği dönemlerde başlamıştım. Bu sefer elimdekinin en iyisini yapmam gerekiyordu çünkü 12. sınıfta katılmak çok mantıksız geliyordu (ki hala aynı fikirdeyim). Yazın ortasına kadar, yaklaşık 2 ay, araştırma/okuma yaptım (ilgilenenler için birkaç alan: &lt;em&gt;synthetic audio generation, synthetic image generation with medical GANs, 2D to 3D mesh creation&lt;/em&gt;&amp;hellip;). O zamanlar Notion kullanmaya başladığımdan ötürü okuduğum hemen her şeyi not almıştım. Ve günün sonunda gerçekten ilgimi çeken hayalimdeki projeyi/soruyu bulmuştum: sentetik klasik gitar müziği üretebilir miyim? Tabi ki de farklı enstrümanlar için bir sürü AI modeli vardı ancak ben klasik gitar özelinde başarısız oldukları kanaatindeydim. Bu proje ile de oldukça uzun bir serüvene katılmış oldum.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -80,8 +81,8 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;Seçtiğiniz alandaki trendleri takip edin.
 &lt;ul&gt;
-&lt;li&gt;Jürilerin ve insanların ilgilerini çekmek için en yeni trendleri yakalamak güzel olabilir. Zaruri bir şey olduğunu düşünmüyorum ancak kesinlikle bir artı.&lt;/li&gt;
-&lt;li&gt;Örneğin ben projeyi yaparken &lt;em&gt;generative AI&lt;/em&gt;&amp;rsquo;lar aşırı rövanştaydı. Bunun farkında olduğumdan kendi projemle her insanın bilebileceği yapay zekaları bağdaştırıyordum. Böylece akılda kalıcılığı arttırmış oluyorsunuz.&lt;/li&gt;
+&lt;li&gt;Jürilerin ve insanların ilgisini çekmek için en yeni trendleri yakalamak güzel olabilir. Zaruri bir şey olduğunu düşünmüyorum ancak kesinlikle bir artı.&lt;/li&gt;
+&lt;li&gt;Örneğin ben projeyi yaparken &lt;em&gt;generative AI&lt;/em&gt;&amp;rsquo;lar aşırı revaçtaydı. Bunun farkında olduğumdan kendi projemle her insanın bilebileceği yapay zekaları bağdaştırıyordum. Böylece akılda kalıcılığı arttırmış oluyorsunuz.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -130,10 +131,10 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;h3 id=&#34;proje-fikrini-bulayım&#34;&gt;Proje fikrini bulayım&amp;hellip;
 &lt;/h3&gt;&lt;p&gt;Uzun ve zahmetli bir iş ancak ne kadar erken bulursanız o kadar iyi. Proje yapmak isteyen herkesin ilk düşündüğü şey olduğundan dolayı daha erişilebilir olması açısından önceki başlıklarda açıklayıcı olarak vermeye çalıştım.&lt;/p&gt;
 &lt;h3 id=&#34;projeyi-gerçekleştireyim&#34;&gt;Projeyi gerçekleştireyim&amp;hellip;
-&lt;/h3&gt;&lt;p&gt;Projeden projeye inanılmaz derecede değişen bir durum olduğundan dolayı net bir şey söyleyemem. Ancak her ne kadar yorulursanız yorulun motivasyonunuzu kaybetmeyin ve hedefiniz için çalışmayı sürdürün.&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;Projeden projeye inanılmaz derecede değişen bir durum olduğundan net bir şey söyleyemem. Ancak her ne kadar yorulursanız yorulun motivasyonunuzu kaybetmeyin ve hedefiniz için çalışmayı sürdürün.&lt;/p&gt;
 &lt;p&gt;Kimden, ne kadar yardım alacağınız size kalmış. Ben her ne kadar öğretmenler, danışmanları, öğretim görevlileri vs. ile çalışmayı çok sevmesem de kimi projeler için zorunlu olduğunun farkındayım. Projeyi elinizden geldiğince &lt;em&gt;kendiniz yapın&lt;/em&gt;. Jürilerin sordukları soru her zaman projenizi öğrenmek istedikleriyle alakalı olmayacak. Kimi zaman projenize ne kadar hakim olduğunuz ile de alakalı olacak. Karşınızdaki kişiye projenizi her ayrıntısına kadar bildiğinizi çok rahat bir şekilde gösteriyor olmanız lazım.&lt;/p&gt;
 &lt;h3 id=&#34;rapor-yazayım&#34;&gt;Rapor yazayım&amp;hellip;
-&lt;/h3&gt;&lt;p&gt;Ne kadar zor olduğu düşüncesi kişiden kişiye değişen bir durum. Şahsen benim en zor ve sıkıcı bulduğum kısım. Projeden projeye de inanılmaz değişken. Ancak başarması kesinlikle imkansız değil. Birkaç maddede öneri vermeye çalışayım:&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;Ne kadar zor olduğu düşüncesi kişiden kişiye değişen bir durum. Şahsen benim en zor ve sıkıcı bulduğum kısım. Projeden projeye de inanılmaz değişken. Ancak şu maddelere dikkat ederek rahatça yazmanız mümkün:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Aceleye getirmeyin.
 &lt;ul&gt;
@@ -210,7 +211,7 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;li&gt;Gün 5: Ödül töreni ve kapanış.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Son dönemlerde (2024-2025 için) tasarruf tedbirleri kapsamında bölge sergilerinin online yapılacağı söylentisi bulunuyor. Dolayısıyla yukarıda söylediklerim tarih olabilir.&lt;/p&gt;
-&lt;p&gt;Bence her ne kadar aşırı zor olsa da bir bölge sergisinde yapılmaması ve yapılması gerekenler şöyle:&lt;/p&gt;
+&lt;p&gt;Bence her ne kadar zor olsa da, bir bölge sergisinde yapılmaması ve yapılması gerekenler şöyle:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Ne yapılmamalı:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Kendi alanınızdan insanları kişilikleriyle değil, projeleriyle değerlendirmek.&lt;/li&gt;
@@ -288,7 +289,7 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;li&gt;Bu süreçte size bir proje yardım fonu yatırılacaktır. Miktar söylemem mantıksız çünkü yıldan yıla değişiklik gösteriyor. Bu fonu projenizi geliştirmek için kullanmaktan çekinmeyin.&lt;/li&gt;
 &lt;li&gt;Etkinlik bir gün öncesine kadar çalışın, çalışın, çalışın. İsterseniz projeyi baştan yapın, isterseniz değiştirin, ister ekleyin, ister çıkarın ama ne yaparsanız yapın daha iyi yapın.
 &lt;ul&gt;
-&lt;li&gt;Ben projeyi çok başka bir yere çekmek istemiştim. Beraber çalıştığım akademisyenin de yönlendirmeleriyle projeyi başka bir boyuta taşıdım. Alana olan hakimiyetim oldukça fazla arttı. Tabi sonuçta bir şey kazanamayınca çok ama çok üzüldüm. Ama yapacak bir şey yok, kazanmak da kaybetmek de bu işin bir parçası.&lt;/li&gt;
+&lt;li&gt;Ben projeyi çok başka bir yere çekmek istemiştim. Beraber çalıştığım akademisyenin de yönlendirmeleriyle projeyi başka bir boyuta taşıdım. Alana olan hakimiyetim oldukça arttı. Sonuçta bir şey kazanamayınca haliyle çok üzüldüm. Ama yapacak bir şey yok, kazanmak da kaybetmek de bu işin bir parçası.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -309,9 +310,9 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Ne yapılsa daha iyi:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Eğer projede tek başınızaysanız hızlıca bir şekilde arkadaş (en kolayı sağ, sol veya karşınızdaki stanttaki insanlar olacaktır) edinin.
+&lt;li&gt;Eğer projede tek başınızaysanız hızlıca arkadaş (en kolayı sağ, sol veya karşı stanttaki insanlar olacaktır) edinin.
 &lt;ul&gt;
-&lt;li&gt;Sunumları poster sunumu olduğundan (poster sunumu bir sonraki başlıkta ayrıntılı incelenecek) ve jürinin ne zaman geleceğini bilmediğinizden dolayı her zaman stantta durmanız gelecek. Ancak ihtiyaç molası vermeniz gerektiğinde edindiğiniz arkadaş sizi arayabilir veya mesaj atabilir veya arkadaşınızı bilgilendirirseniz size haber verebilir veya jüriyi orada tutabilir. Aynı şeyi siz de arkadaşınız için yaparsınız.&lt;/li&gt;
+&lt;li&gt;Sunumları poster sunumu olduğundan (poster sunumu bir sonraki başlıkta ayrıntılı incelenecek) ve jürinin ne zaman geleceğini bilmediğinizden dolayı her zaman stantta durmanız gelecek. Ancak ihtiyaç molası vermeniz gerektiğinde edindiğiniz arkadaş sizi arayabilir, mesaj atabilir veya jüriyi orada tutabilir. Aynı şeyi siz de arkadaşınız için yaparsınız.&lt;/li&gt;
 &lt;li&gt;Dediklerimin fazla spesifik olduğunu kabul ediyorum ancak başıma geldiğinden bu kadar kolay söyleyebiliyorum. Yanımdaki İrlandalı arkadaşım ile telefon numaralarımızı değiş tokuş etmiştik, birisi gelirse ve ben olmazsam standta beni arıyordu sağ olsun. Ayrıca o arkadaşın arkadaşı ile ISTF&amp;rsquo;te (&amp;ldquo;Ne, ISTF&amp;rsquo;e mi seçildiniz?&amp;rdquo; başlığına bakılabilir.) karşılaştık sonra, böyle garip bir bağlantı :).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -345,13 +346,13 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;h3 id=&#34;eucys-jüri-ve-jüri-sunumları-üzerine&#34;&gt;EUCYS jüri ve jüri sunumları üzerine&amp;hellip;
 &lt;/h3&gt;&lt;p&gt;Sunumunuz poster üzerinden olacak. Üç gün boyunca stantta bekleyeceksiniz ve bu süre zarfında 5 tane jürinin gelmesini bekleyeceksiniz. 5 kesin bir sayı değil; 3,4 veya 6 jüri alan da duydum. Kaç jüri aldığınız ile jürilerin projenize ilgisi kesinlikle ilgili değil, kendi kendinize bir yargıya varmayın.&lt;/p&gt;
 &lt;p&gt;Elinizdeki tek materyal posteriniz (Tabi fiziksel göstereceğiniz materyaller hariç. Ayrıca sunum sırasında bilgisayardan sunum dosyası da kullanılabilir sanırım ancak önermem. Ben kullanan görmedim.). Posterinizin &lt;strong&gt;işlevsel ve güzel gözükmesi&lt;/strong&gt; önemli. Diğer yarışmacıların her türden posterlerini göreceksiniz: kimisi A4&amp;rsquo;e yazı yazmış getirmiş, kimisi kartona keçeli kalemle yazmış getirmiş, kimisi ise 2204A&amp;rsquo;da yapılan gibi üç duvarı da kaplayacak şekilde posterini hazırlamış. Diğer yarışmacıları posterleriyle yargılamayın. Öyle kötü posterli yarışmacılar öyle güzel ana ödülleri topluyor ki aklınız şaşar.&lt;/p&gt;
-&lt;p&gt;EUCYS&amp;rsquo;e özel bir durum: &lt;strong&gt;sunum süresi&lt;/strong&gt; diye bir kavram yok. Tabi ki de gidip 20 dakika sunmayın, maksimum 10 dakikada hemen her proje anlatılabilir. Sunum süresinin olmaması daha çok soru kısmında. Jüriler projenizi daha önce incelemiş şekilde hazırlıklı gelirler. Dolayısıyla eğer akıllarındaki sorular sunumunuzda cevaplanmamıştı hepsini soracaklardır. 5 ile 15 dakika arasında soru cevap yapmanız mümkün. Örneğin ben, gitarist bir jüriyle yaklaşık 5-10 dakika sunumun ardından belki 20 dakika muhabbet ettim. Birbirimize müzik önerdik, müziğin gidişatı hakkında konuştuk vs. Jürilerle arkadaşça sohbet etmek önemli.&lt;/p&gt;
+&lt;p&gt;EUCYS&amp;rsquo;e özel bir durum: &lt;strong&gt;sunum süresi&lt;/strong&gt; diye bir kavram yok. Tabi ki de gidip 20 dakika sunmayın, maksimum 10 dakikada hemen her proje anlatılabilir. Sunum süresinin olmaması daha çok soru kısmında. Jüriler projenizi daha önce incelemiş şekilde hazırlıklı gelirler. Dolayısıyla eğer akıllarındaki sorular sunumunuzda cevaplanmamışsa hepsini soracaklardır. 5 ile 15 dakika arasında soru cevap yapmanız mümkün. Örneğin ben, gitarist bir jüriyle yaklaşık 5-10 dakika sunumun ardından belki 20 dakika muhabbet ettim. Birbirimize müzik önerdik, müziğin gidişatı hakkında konuştuk vs. Jürilerle arkadaşça sohbet etmek önemli.&lt;/p&gt;
 &lt;p&gt;Jüri komitesi her sene birkaç değişiklik harici aynı. Daha önceden kim olduklarını araştırabilirsiniz ancak çok gerekli olduğunu düşünmüyorum. Çünkü size tam olarak hangi jürinin geleceğini bilemezsiniz.&lt;/p&gt;
 &lt;p&gt;Alanınız dışında da jüri gelecektir. 5 jüri alırsanız tahminimce 1-2&amp;rsquo;si alanınız dışında olacaktır. Ziyaretçi sunumlarında yapmanız gereken gibi, eğer dinleyici alan hakkında çok bilgili değilse daha anlayabileceği bir dilde, sunum boyunca sürekli terimler kullanmadan sunumunuzu yapmaya çalışın. Bu konuda yarışmaya gitmeden önce ufak bir sunum hazırlayabilirsiniz. Her ihtimale karşı hazırlıkta olmakta yarar var.&lt;/p&gt;
 &lt;p&gt;Bu söylediklerim dışında zaten 2204A süreci boyunca nasıl sunum yapılması gerektiğini, nelere dikkat etmeniz gerektiğini gayet iyi anladığınızı tahmin ediyorum. Uluslararası jürilerde de benzer şeyler geçerli. Probleminizi, amacınızı, metotlarınızı ve bulgularınızı güzelce sunup sorulara da net ve temiz cevaplar verdiğiniz takdirde elinizden geleni yapmışsınızdır demektir.&lt;/p&gt;
 &lt;h3 id=&#34;eucys-sonunda&#34;&gt;EUCYS sonunda&amp;hellip;
 &lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ödül aldıysanız:&lt;/strong&gt; Tebrikler! EUCYS&amp;rsquo;ten ödül alan sayılı Türk&amp;rsquo;ün (maalesef oldukça az Türk ödül alıyor) arasına girdiniz. Sınavsız geçiş hakkı, ek puan ve lisansta burs imkanınız var. ISEF için (tabi seçildiyseniz) oldukça rahat bir şekilde çalışabilir ve ISEF etkinliğindeyken gerçekten etkinlikten inanılmaz zevk alabilirsiniz. (EUCYS&amp;rsquo;e gitmeyenler veya kazanamayanlar zevk alamaz demek değil tabii ki!)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ödül aldıysanız:&lt;/strong&gt; Tebrikler! EUCYS&amp;rsquo;ten ödül alan sayılı Türk&amp;rsquo;ün (maalesef oldukça az Türk ödül alıyor) arasına girdiniz. Sınavsız geçiş hakkı, ek puan ve lisansta burs imkanınız var. ISEF için (tabi seçildiyseniz) oldukça rahat bir şekilde çalışabilir ve ISEF etkinliğindeyken gerçekten etkinlikten inanılmaz zevk alabilirsiniz (EUCYS&amp;rsquo;e gitmeyenler veya kazanamayanlar zevk alamaz demek değil tabii ki!). Sınavsız geçiş kullanacaksanız &lt;em&gt;Bazı Sorular ve Cevapları&lt;/em&gt; kısmındaki &lt;em&gt;Sınavsız geçiş süreci tam olarak nasıl işliyor?&lt;/em&gt; kısmına bakabilirsiniz. [[ISEF Seçmeleri Hakkında]]&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ödül alamadıysanız:&lt;/strong&gt; Canınız sağ olsun, canımız sağ olsun. ISEF için (tabi seçildiyseniz) inanılmaz büyük deneyimler edindiniz. İngilizce sunum, poster sunumu yapmak, uluslararası etkinliğe katılmak gibi paha biçilemez tecrübeler kazandınız.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;EUCYS&amp;rsquo;te edindiğiniz arkadaşlıkları ISEF&amp;rsquo;te (tabi seçildiyseniz) devam ettirmeniz mümkün, hem Türk EUCYS katılımcılarıyla hem de yabancılarla. Tavsiyem, ister ödül alın ister almayın, yarışma geçtikten sonra artık geçmişe daha fazla bakmayıp önünüzdeki işlere odaklanmak.&lt;/p&gt;
@@ -373,7 +374,7 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;li&gt;ISEF için seçildiğiniz takdirde yapmak istediğiniz geliştirmeleri ve planlarınızı anlatın.
 &lt;ul&gt;
 &lt;li&gt;Direkt eski proje-yeni proje karşılaştırması gibi bile yapabilirsiniz.&lt;/li&gt;
-&lt;li&gt;Eğer zaten halihazırda EUCYS için çalışıyorsanız şimdiye kadar neler yaptığınızı ve yazın sonuna kadar neleri tamamlamak istediğinizi anlatabilirsiniz.&lt;/li&gt;
+&lt;li&gt;Eğer halihazırda EUCYS için çalışıyorsanız şimdiye kadar neler yaptığınızı ve yazın sonuna kadar neleri tamamlamak istediğinizi anlatabilirsiniz.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -406,7 +407,7 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;li&gt;Projeniz çok fazla form içermese bile son ana bırakmayın. Eğer formlar hakkında TÜBİTAK tarafından bilgilendirme yapılmışsa toplantının ertesi günü doldurmaya başlayın.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Eğer aklınıza takılın bir soru olursa TÜBİTAK&amp;rsquo;a veya süreçle yakından haşır neşir olmuş birine sorun.
+&lt;li&gt;Eğer aklınıza takılan bir soru olursa TÜBİTAK&amp;rsquo;a veya süreçle yakından haşır neşir olmuş birine sorun.
 &lt;ul&gt;
 &lt;li&gt;Formu yanlış doldurmamaya özen gösterin. Yanlışınızı düzeltmeniz için ISEF yetkilileri (society for science) sizinle iletişime geçebilir veya geçmeyebilir. Yanlış kalmasındansa iletişime geçmeleri daha iyi tabi ki ancak sizi uğraştırabilirler.&lt;/li&gt;
 &lt;/ul&gt;
@@ -468,7 +469,7 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;li&gt;Ardından &lt;em&gt;main inspector&lt;/em&gt;&amp;lsquo;ı karşılayıp &lt;em&gt;inspection process&amp;rsquo;i&lt;/em&gt; tamamlayın.&lt;/li&gt;
 &lt;li&gt;Eğer varsa elektronik eşyalarınızı HUB&amp;rsquo;dan QR&amp;rsquo;layın.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Bundan sonra aslında tek önemli gün jüri sunumlarının olduğu gün. Ancak o zamana kadar birçok panel ve etkinlik olacaktır. İlginizi çekenlere katılmaya çalışın, faydalı olabiliyorlar. Ayrıca gidip gelmek istediğiniz yerler varsa TÜBİTAK yetkililerine öneri sunup onlarla birlikte gezebilirsiniz (veya varsa danışman öğretmeniniz varsa).&lt;/p&gt;
+&lt;p&gt;Bundan sonra aslında tek önemli gün jüri sunumlarının olduğu gün. Ancak o zamana kadar birçok panel ve etkinlik olacaktır. İlginizi çekenlere katılmaya çalışın, faydalı olabiliyorlar. Ayrıca gidip gelmek istediğiniz yerler varsa TÜBİTAK yetkililerine öneri sunup onlarla birlikte gezebilirsiniz (veya danışman öğretmeniniz sizinleyse onunla da gezebilirsiniz).&lt;/p&gt;
 &lt;p&gt;Burada etkinlik boyunca neler yapmanız ve yapmamanız gerektiğini yinelemek istiyorum:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Ne yapılmamalı:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -483,7 +484,7 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;Ne yapılsa daha iyi:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Eğer projede tek başınızaysanız hızlıca bir şekilde arkadaş (en kolayı sağ, sol veya karşınızdaki stanttaki insanlar olacaktır) edinin.
+&lt;li&gt;Eğer projede tek başınızaysanız hızlı bir şekilde arkadaş (en kolayı sağ, sol veya karşı stanttaki insanlar olacaktır) edinin.
 &lt;ul&gt;
 &lt;li&gt;Böylece kategori sosyalleşme gününde (kategorinizdeki diğer insanlarla bir sabah kahvaltısı) gerçekten keyif alabilir, kategori bazlı bir problem/sorunuz olduğunda birilerine sorabilirsiniz.&lt;/li&gt;
 &lt;/ul&gt;
@@ -507,18 +508,18 @@ This article is published only in Turkish language.&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Ödül aldıysanız:&lt;/strong&gt; Tebrikler! Sınavsız geçiş hakkı, ek puan ve lisansta burs imkanınız var. Eğer yurt dışı (özellikle Amerika) okullarına başvurmak istiyorsanız öz geçmişinizde parlayan bir yıldız var. Ancak çok böbürlenmeyin çünkü üniversiteye geçtiğinizde sizin gibi bir sürü insan da çok ciddi çalışmalar yapacak ve arada açtığınız farkı kapatacaklardır. Dolayısıyla ISEF&amp;rsquo;ten ödül almak bir şeyin bitişi ve yatma hakkı elde etmek değil, çok başka güzel şeylerin başlangıcı gibi düşünülmelidir.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ödül alamadıysanız:&lt;/strong&gt; Canınız sağ olsun, canımız sağ olsun. Önünüzde inşallah daha uzun bir hayat ve kariyer var. Şu anda yaşıtlarınızda zaten oldukça ileridesiniz. ISEF sürecinde gösterdiğiniz çalışkanlığı ileride de göstererek güzel işler başaracağınızdan emin olabilirsiniz.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;ISEF&amp;rsquo;te edindiğiniz arkadaşlıkları etkinlik sonrasında da ilerlettirin. Kime, ne zaman, nasıl bir işiniz düşeceği hiçbir zaman belli olmaz.&lt;/p&gt;
+&lt;p&gt;ISEF&amp;rsquo;te edindiğiniz arkadaşlıkları etkinlik sonrasında da ilerletin. Kime, ne zaman, nasıl bir işiniz düşeceği hiçbir zaman belli olmaz.&lt;/p&gt;
 &lt;p&gt;Ödül alanlar için keyifli, almayanlar içinse üzücü ancak eminim ki herkes için yorucu bir uçak yolculuğu sizi bekliyor.&lt;/p&gt;
 &lt;h2 id=&#34;ne-istfe-mi-seçildiniz&#34;&gt;Ne, ISTF&amp;rsquo;e mi seçildiniz!?
 &lt;/h2&gt;&lt;p&gt;(Dikkat: ISEF değil ISTF.)
 Tebrikler!&lt;/p&gt;
-&lt;p&gt;İsviçre&amp;rsquo;de, muhtemelen Notwill&amp;rsquo;de (genelde her sene aynı yerde yapılıyor ancak ekstrem durumlarda değişebilir), Alp Dağları&amp;rsquo;na bakan güzel bir otelde bir hafta takılacaksınız. Bu süre zarfı içerisinde size yöneltilen bir sorun için çözüm bulacaksınız. Oldukça kaliteli ve biraz daha niş olan bir etkinliğe katılmaya hak kazandınız, güzel değerlendirin.&lt;/p&gt;
+&lt;p&gt;İsviçre&amp;rsquo;de, muhtemelen Notwill&amp;rsquo;de (genelde her sene aynı yerde yapılıyor ancak ekstrem durumlarda değişebilir), Alp Dağları&amp;rsquo;na bakan güzel bir otelde bir hafta takılacaksınız. Bu süre zarfı içerisinde size yöneltilen bir sorun için çözüm bulacaksınız. Oldukça kaliteli ve biraz daha az bilinen bir etkinliğe katılmaya hak kazandınız, güzel değerlendirin.&lt;/p&gt;
 &lt;p&gt;TÜBİTAK&amp;rsquo;ın bu etkinlikteki rolü yalnızca size davetiye vermek, ondan sonrası tamamen size bağlı. Uçak biletlerini siz alacaksınız (etkinlik sonra ödüyor), tek başınıza İsviçre&amp;rsquo;ye gidecek, trene/otobüse bineceksiniz. Farklı milletten birisiyle yaklaşık 1 hafta aynı odayı paylaşacak, daha önce görmediğiniz (EUCYS&amp;rsquo;te tanıştığınız insanlardan buraya gelenler de olabilir!) insanlarla beraber takım olup bir sürü güzel aktivite yapacaksınız.&lt;/p&gt;
 &lt;p&gt;TÜBİTAK haftanın bir raporunu isteyecektir. Bir önceki katılımcının raporunu da sizinle paylaşacaktır. Tavsiyem raporun yolculuk kısımlarını okuyup (eğer daha önce Avrupa&amp;rsquo;ya gidip trene binmişseniz ona bile gerek yok) diğer kısımlarını rapor yazarken okumanız. Sürecin sürprizini bozmaya hiç gerek yok. Temel şeyler için içinizi rahatlatayım: gayet güzel barınacaksınız, aç (yemekler vejeteryan) veya susuz (çeşme suyu içilebilir) kalmayacaksınız, sürekli internete erişiminiz olacak. ISTF&amp;rsquo;in yaptığı bilgilendirmelere dikkat edin yeter.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Not:&lt;/strong&gt; Gelmeden önce okuyun denilenleri kimse okumuyor ama siz okursanız havanız olur, benden söylemesi.&lt;/p&gt;
 &lt;h2 id=&#34;diğer&#34;&gt;Diğer
 &lt;/h2&gt;&lt;h3 id=&#34;makale-okumak-hakkında&#34;&gt;Makale okumak hakkında
-&lt;/h3&gt;&lt;p&gt;Daha önce o alanda hiç makale okumamış bir insanın açıp tüm makaleyi okuyup hiçbir şey anlamadan çıkması aşırı normal. Zaten bu konu üzerine yapılmış yıllarca yıllık çalışma hakkında en ufak fikriniz yok. Nasıl tekte anlayabilirsiniz ki?&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;Daha önce o alanda hiç makale okumamış bir insanın açıp tüm makaleyi okuyup hiçbir şey anlamadan çıkması gayet normal. Zaten bu konu üzerine yapılmış yıllarca yıllık çalışma hakkında en ufak fikriniz yok. Nasıl tekte anlayabilirsiniz ki?&lt;/p&gt;
 &lt;p&gt;Kişiden kişiye değişiklikler olsa da benim için adım adım makalenin nasıl okunması gerektiği hakkında bilgi vereyim:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Başlıktan sonra ilk olarak özet iyice anlaşılarak okunmalı. Eğer iyi yazılmış bir özetse zaten problem, amaç, metotların bir kısmı, bulguların bir kısmı ve sonuç yeterince açık bir şekilde verilmiştir.&lt;/li&gt;
@@ -570,10 +571,10 @@ Tebrikler!&lt;/p&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;bazı-sorular-ve-cevapları-sss-gibi&#34;&gt;Bazı Sorular ve Cevapları (S.S.S. gibi)
 &lt;/h2&gt;&lt;h3 id=&#34;poster-hazırlarken-hangi-uygulamayı-kullanmalıyım&#34;&gt;Poster hazırlarken hangi uygulamayı kullanmalıyım?
-&lt;/h3&gt;&lt;p&gt;Eğer hali hazırda kullandığınız ve iyi iş çıkardığını düşündüğünüz bir uygulama varsa bu süreçte değiştirmemenizi öneririm. Ancak ilk defa başlayacaksanız kullanımı kolay olduğundan ve grafik kütüphanesi geniş olduğundan dolayı &lt;a class=&#34;link&#34; href=&#34;https://www.canva.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+&lt;/h3&gt;&lt;p&gt;Eğer halihazırda kullandığınız ve iyi iş çıkardığını düşündüğünüz bir uygulama varsa bu süreçte değiştirmemenizi öneririm. Ancak ilk defa başlayacaksanız kullanımı kolay olduğundan ve grafik kütüphanesi geniş olduğundan dolayı &lt;a class=&#34;link&#34; href=&#34;https://www.canva.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Canva&lt;/a&gt;&amp;lsquo;yı önerebilirim. Hızlı bir şekilde ortaya bir şeyler koymak için oldukça güzel ancak daha detaylı işler için çok yetersiz olduğu görüşündeyim. Photoshop, Illustrator, Figma diğer alternatifler olabilir.&lt;/p&gt;
 &lt;h3 id=&#34;isefte-eğer-hem-sao-hem-ana-jüri-gelirse-ne-olur&#34;&gt;ISEF&amp;rsquo;te eğer hem SAO hem ana jüri gelirse ne olur?
-&lt;/h3&gt;&lt;p&gt;Ağırlık olarak &lt;em&gt;Ana Jüri &amp;gt; SAO &amp;gt; Meraklı Jüriler&lt;/em&gt; şeklindedir. Dolayısıyla sonradan tekrar gelmek zorundalar çok isterlerse.&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;Ağırlık olarak &lt;em&gt;Ana Jüri &amp;gt; SAO &amp;gt; Meraklı Jüriler&lt;/em&gt; şeklindedir. Dolayısıyla eğer sizi dinleyemeyen ana jüri harici birileri olursa sonradan tekrar gelmek zorundalar.&lt;/p&gt;
 &lt;h3 id=&#34;eucyste-eğer-hem-ziyaretçi-hem-ana-jüri-gelirse-ne-olur&#34;&gt;EUCYS&amp;rsquo;te eğer hem ziyaretçi hem ana jüri gelirse ne olur?
 &lt;/h3&gt;&lt;p&gt;Gidince de görebileceğiniz gibi jüriler özel bir tişört giyerler ve ziyaretçiler alana girerken jüriler hakkında bilgilendirilir. Eğer olur da jüri görürlerse standınıza geleceklerini sanmıyorum.&lt;/p&gt;
 &lt;p&gt;Ayrıca jürilerin giydiği renk hakkında travma yaşayabilir, yarışma sonrası etrafta birini o renk giysi ile gördüğünüzde kaçıp uzaklaşmak isteyebilirsiniz. Uyarayım istedim.&lt;/p&gt;
@@ -639,8 +640,8 @@ Tebrikler!&lt;/p&gt;
 &lt;p&gt;Asıl soruya gelecek olursam, iki büyük olay sunumunuzun o kadar da iyi geçmediğini gösterebilir: sunum sırasında ne diyeceğini unutup gereksiz yere çok önceye dönmek veya çok ileriye atlamak, jürilerin sorularına hiç tatmin edici cevaplar vermemek. İlki gayet insanın başına gelebilir bir durum, heyecan yapar unutursunuz ancak olay tam olarak nerede toparlayıp nereden devam edeceğinize bağlı. İkincisi ise çok daha büyük bir problemdir. Sorulara cevap verememek demek; literatür bilginizi, proje hakimiyetinizi ve hatta projeyi sizin yapıp yapmadığınızı bile sorgulatır. Bu yüzden proje sunmanın en zor kısmı sorulardır ve gerçekten bir veya iki soruda bile kem küm ederseniz sunumunuz maalesef o kadar da iyi geçmemiş demektir.&lt;/p&gt;
 &lt;p&gt;Sırf sunumunuz kötü geçti diye karalar bağlamanın bir manası yok. Olan oldu ve sizi oldukça geliştiren güzel bir tecrübe edindiniz. Hem eğer daha ödül töreni gerçekleşmediyse ödül alamazsınız diye bir şey kesinlikle söz konusu değil. Kötü bir sunum belki size birincilik vermez ama ikincilik veya üçüncülük almanız gayet mümkün (tabi tahmin edersiniz ki uluslararası yarışmalarda hatalar daha az tolere edilecektir çünkü oraya gelen yarışmacıların birçoğu hatasız veya oldukça az hatalı sunumlar geçiriyordur.)&lt;/p&gt;
 &lt;h3 id=&#34;2204a-mı-2204c-veya-2204d-mi&#34;&gt;2204A mı 2204C veya 2204D mi?
-&lt;/h3&gt;&lt;p&gt;Kutup ve iklim proje yarışmalarına girmek aslında size 2204A&amp;rsquo;dan kazanabileceğiniz ek puana nazaran daha hızlı ve kolay bir şekilde ek puan kazandırabilir. Ancak prestij olarak 2204A&amp;rsquo;dan daha geride olması (tabi bu durum yeni yarışmalar olmalarından kaynaklı çoğunlukla), uluslararası yarışma ayaklarının olmaması, çok daha spesifik bir alana hitaba etmeleri vb. nedenler dolayısıyla 2204A&amp;rsquo;dan daha az tercih ediliyor.&lt;br&gt;
-Şahsi tavsiyem, 9 ve/veya 10. sınıfta 2204A yanında 2204C veya 2204D&amp;rsquo;nin yapılması. Veya 2204A yapmayıp ilk ısınma turu olarak da denenebilir. Ayrıca bu yarışmalardan kazandıklarınız sonucu 2204A&amp;rsquo;ya bel bağlamaz, daha rahat bir süreç yaşayabilirsiniz.&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;Kutup ve iklim proje yarışmalarına girmek aslında size 2204A&amp;rsquo;dan kazanabileceğiniz ek puana nazaran daha hızlı ve kolay bir şekilde ek puan kazandırabilir (2024 itibariyle 2204C/D&amp;rsquo;ye ek puan verilmiyor gibi gözüküyor, girmeden önce araştırmak lazım). Ancak prestij olarak 2204A&amp;rsquo;dan daha geride olması (tabi bu durum yeni yarışmalar olmalarından kaynaklı çoğunlukla), uluslararası yarışma ayaklarının olmaması, çok daha spesifik bir alana hitaba etmeleri vb. nedenler dolayısıyla 2204A&amp;rsquo;dan daha az tercih ediliyor.&lt;br&gt;
+Şahsi tavsiyem, 9 ve/veya 10. sınıfta 2204A yanında 2204C veya 2204D&amp;rsquo;nin yapılması. Veya 2204A yapmayıp ilk ısınma turu olarak da denenebilir.&lt;/p&gt;
 &lt;h3 id=&#34;2204a-mı-teknofest-mi&#34;&gt;2204A mı Teknofest mi?
 &lt;/h3&gt;&lt;p&gt;Teknofest Türkiye&amp;rsquo;deki savunma sanayii firmaları için birebir. Eğer ileride bu firmalarla çalışmak/staj yapmak istiyorsanız en basit kategorisine bile girseniz oldukça yararınıza. Ayrıca lise döneminde para kazanmanın güzel bir yolu. Ancak yurt dışı başvuruları veya ilerideki savunma sanayii dışı alanlarda ne kadar işinize yarar emin olamıyorum. Teknofest için yaptığınız projeyi muhtemelen ilerletip, özgünleştirip, makale vb. yollarla onaylatmanız daha çok işinize yarayacaktır.&lt;/p&gt;
 &lt;p&gt;Soruya gelecek olursam, Teknofest size kısa vadede çok şey kazandıracaktır evet ancak uzun vadeli bir araştırma projesi için kesinlikle 2204A derim. Güzel bir 2204A projesi üzerine çalışırken hobi olarak Teknofest yapmak mümkün. Hatta bence en ideali iki kişi 2204A yaparken gruba katılacak diğer bir kişi ile Teknofest yapılabilir, Teknofest işleri çok ağır olmadığından ötürü yeni katılan kişi rapor/tarih kaçırmama vs. ile uğraşırken diğer iki kişi tamamen teknik kısımlara ve sunum (eğer Teknofest kategorisinde varsa) vs. uğraşabilir.&lt;/p&gt;
@@ -653,8 +654,24 @@ Tebrikler!&lt;/p&gt;
 &lt;li&gt;gerçekten değip değmeyeceği.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Bu 4 maddenin hangisinin daha ağır basacağı, hangisinin kararınızı etkileyeceği vs. X yarışmasına ve size bağlı tabi ki.&lt;/p&gt;
+&lt;h3 id=&#34;sınavsız-geçiş-süreci-tam-olarak-nasıl-işliyor&#34;&gt;Sınavsız geçiş süreci tam olarak nasıl işliyor?
+&lt;/h3&gt;&lt;p&gt;Öncelikle sınavsız geçiş hakkı kazandığınız için tebrikler! Bu süreçte neler yapmanız gereken ISEF/EUCYS grubundan sizlere bildirilecektir zaten. Ancak birkaç belirsizliği gidermiş olmak istiyorum:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sınavsız geçiş için e-bideb&amp;rsquo;den gerekli formu yollayıp TÜBİTAK&amp;rsquo;a yollayacaksınız. Bu aşama zaten gayet net.&lt;/li&gt;
+&lt;li&gt;TÜBİTAK&amp;rsquo;ın eline vardığına emin olduktan sonra &lt;strong&gt;hiçbir hamlede bulunmanıza gerek yok&lt;/strong&gt;.
+&lt;ul&gt;
+&lt;li&gt;Eğer sınava girdiyseniz tercih döneminde tercih ekranını görebileceksinizdir. Tercih listeniz boş olmalı.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;TÜBİTAK&amp;rsquo;a, gerekli belgeleri ÖSYM&amp;rsquo;ye ulaştırıp ulaştırmadıkları hakkında mesaj atabilirsiniz ancak ÖSYM ile iletişime geçmeniz mümkün değil (2024 itibariyle söylüyorum, belki ileride politaka değiştirirler ancak hiç sanmıyorum).
+&lt;ul&gt;
+&lt;li&gt;Mail adresi, telefon numarası (sitelerinde yazan numara bir çalışana aktarmıyor.) vb. ulaşabileceğiniz hiçbir kaynak bulunmuyor.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Yerleşmeler açıklandığı zaman siz de ÖSYM&amp;rsquo;nin sitesine girip yerleştiğinizden emin olabilirsiniz. Yerleşme türünde &amp;ldquo;Genel&amp;rdquo; değil &amp;ldquo;TÜBİTAK&amp;rdquo; yazacaktır.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;son-sözler-ve-kapanış&#34;&gt;Son Sözler ve Kapanış
-&lt;/h2&gt;&lt;p&gt;Bu deneyimleri edinmemde ve bu başarıları kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Bir o kadar da TÜBİTAK&amp;rsquo;a ve okuluma beni bu uzun yolda destekledikleri için minnetarım.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Bu deneyimleri edinmemde ve bu başarıları kazanmamda büyük rol oynayan ağabeyime, anneme ve babama ne kadar teşekkür etsem azdır. Bir o kadar da TÜBİTAK&amp;rsquo;a ve okuluma beni bu uzun yolda destekledikleri için minnetarım. Ayrıca bu yazının editörlüğünde bana yardımcı olan Nazire, Leylek ve Nisa&amp;rsquo;ya teşekkürlerimi sunuyorum!&lt;/p&gt;
 &lt;p&gt;Eğer yazıda yazım veya bilgi hatası bulursanız, yazıda bulunan bilgiler güncelliğini yitirmişse (ki gün geçtikçe yitirecektir eminim) iletişim geçip bildirmenizi rica ediyorum. Böylece bu sürece yeni başlayan veya ortalarında olup da kafası karışan öğrenciler en doğru şekilde bilgilenebilir. Teşekkürler!&lt;/p&gt;
 </description>
         </item>

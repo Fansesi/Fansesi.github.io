@@ -11,7 +11,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-> **Note (EN):** If you know Turkish, I highly recommend you to read this article in Turkish. Beacuse it is the original version.  
+> **Note (EN):** If you know Turkish, I highly recommend you to read this article in Turkish. Because it is the original version.  
 > **Not (TR):** Yazının orijinal versiyonu Türkçe olduğundan dolayı eğer biliyorsanız bu yazıyı Türkçe okumanızı tavsiye ederim.
 
 ## Day 0 - Travel

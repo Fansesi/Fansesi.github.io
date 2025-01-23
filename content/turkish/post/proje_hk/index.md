@@ -12,7 +12,7 @@ weight: 1
 ---
 
 >Bu yazı yalnızca Türkçe olarak paylaşılmıştır.
->This article is published only in Turkish language.
+>This article is published only in Turkish.
 
 *Baştan sona, her ayrıntısıyla; 2204A, EUCYS ve ISEF.*
 

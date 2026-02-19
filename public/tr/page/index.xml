@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Burak Sina Akbudak</title>
         <link>http://localhost:1313/tr/page/</link>
@@ -7,58 +6,22 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>tr-TR</language>
         <lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tr/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Hakkımda</title>
-        <link>http://localhost:1313/tr/page/about/</link>
-        <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tr/page/about/</guid>
-        <description>&lt;p&gt;İsmim Burak Sina Akbudak, Sina ise günlük hayatta genelde insanların bana seslendiği adım. Music Information Retrieval (MIR) alanında araştırmalarda bulunuyorum (ya da en azından ileride daha bu konuda araştırmacı olmak istiyorum!). Şu anda Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümünde öğrenciyim.&lt;/p&gt;
-&lt;p&gt;İlgi alanlarımı aşağıdaki gibi kategorize edebilirim:&lt;/p&gt;
-&lt;h3 id=&#34;müzik&#34;&gt;Müzik
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Klasik, caz and math rock üzerine eserler besteleme&lt;/li&gt;
-&lt;li&gt;Müzik teori ve bu teorik bilgimi klasik, bas, elektro gitar ve bateri çalarken kullanma.&lt;/li&gt;
-&lt;li&gt;Digital Audio Workstations (DAWs) and sinyal işleme&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;kodlama&#34;&gt;Kodlama
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Müziğin doğal dil işleme yöntemleriyle modellenmesi&lt;/li&gt;
-&lt;li&gt;Music information retrieval (MIR) alanı, daha da spesifik olarak sentetik müzik üretimi, vokal sentezi ve text-to-speech.&lt;/li&gt;
-&lt;li&gt;C/C++ kullanarak fiziksel simülasyonlar (daha öğrenmem gereken çok fazla şey olsa da!)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;dijital-sanat&#34;&gt;Dijital Sanat
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;3D çevre tasarımı&lt;/li&gt;
-&lt;li&gt;Karakter ve katı yüzey (hard surface) modellemesi&lt;/li&gt;
-&lt;li&gt;Shader art coding ve openGL&lt;/li&gt;
-&lt;li&gt;Pixel art&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;diğer&#34;&gt;Diğer
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Matematik olimpiyatları ve yarışmaları&lt;/li&gt;
-&lt;li&gt;Oyun endüstrisi ve oyun geliştirmesi&lt;/li&gt;
-&lt;li&gt;3D baskı ve baskıyı boyama teknikleri&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Bu sitede; projelerim, araştırmalarım, farklı konular hakkında düşüncelerim ve spesifik konularda rehberler üzerine yazıyorum. Ayrıca kişisel gezi notlarımı paylaşıyorum.&lt;/p&gt;
-&lt;p&gt;Gününüz güzel geçsin!&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Tüm Yazılar</title>
-        <link>http://localhost:1313/tr/page/archives/</link>
-        <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tr/page/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Search</title>
-        <link>http://localhost:1313/tr/page/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tr/page/search/</guid>
-        <description></description>
-        </item>
-        
-    </channel>
+            <title>Hakkımda</title>
+            <link>http://localhost:1313/tr/page/about/</link>
+            <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tr/page/about/</guid>
+            <description>&lt;p&gt;İsmim Burak Sina Akbudak, Sina ise günlük hayatta genelde insanların bana seslendiği adım. Music Information Retrieval (MIR) alanında araştırmalarda bulunuyorum (ya da en azından ileride daha bu konuda araştırmacı olmak istiyorum!). Şu anda Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümünde öğrenciyim.&lt;/p&gt;&#xA;&lt;p&gt;İlgi alanlarımı aşağıdaki gibi kategorize edebilirim:&lt;/p&gt;&#xA;&lt;h3 id=&#34;müzik&#34;&gt;Müzik&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;Klasik, caz and math rock üzerine eserler besteleme&lt;/li&gt;&#xA;&lt;li&gt;Müzik teori ve bu teorik bilgimi klasik, bas, elektro gitar ve bateri çalarken kullanma.&lt;/li&gt;&#xA;&lt;li&gt;Digital Audio Workstations (DAWs) and sinyal işleme&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;kodlama&#34;&gt;Kodlama&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;Müziğin doğal dil işleme yöntemleriyle modellenmesi&lt;/li&gt;&#xA;&lt;li&gt;Music information retrieval (MIR) alanı, daha da spesifik olarak sentetik müzik üretimi, vokal sentezi ve text-to-speech.&lt;/li&gt;&#xA;&lt;li&gt;C/C++ kullanarak fiziksel simülasyonlar (daha öğrenmem gereken çok fazla şey olsa da!)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;dijital-sanat&#34;&gt;Dijital Sanat&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;3D çevre tasarımı&lt;/li&gt;&#xA;&lt;li&gt;Karakter ve katı yüzey (hard surface) modellemesi&lt;/li&gt;&#xA;&lt;li&gt;Shader art coding ve openGL&lt;/li&gt;&#xA;&lt;li&gt;Pixel art&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;diğer&#34;&gt;Diğer&#xA;&lt;/h3&gt;&lt;ul&gt;&#xA;&lt;li&gt;Matematik olimpiyatları ve yarışmaları&lt;/li&gt;&#xA;&lt;li&gt;Oyun endüstrisi ve oyun geliştirmesi&lt;/li&gt;&#xA;&lt;li&gt;3D baskı ve baskıyı boyama teknikleri&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Bu sitede; projelerim, araştırmalarım, farklı konular hakkında düşüncelerim ve spesifik konularda rehberler üzerine yazıyorum. Ayrıca kişisel gezi notlarımı paylaşıyorum.&lt;/p&gt;&#xA;&lt;p&gt;Gününüz güzel geçsin!&lt;/p&gt;&#xA;</description>
+        </item><item>
+            <title>Tüm Yazılar</title>
+            <link>http://localhost:1313/tr/page/archives/</link>
+            <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tr/page/archives/</guid>
+            <description></description>
+        </item><item>
+            <title>Search</title>
+            <link>http://localhost:1313/tr/page/search/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/tr/page/search/</guid>
+            <description></description>
+        </item></channel>
 </rss>

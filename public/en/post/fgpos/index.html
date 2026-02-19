@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+    <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Attended Teknofest's 5G tech competition and got to the finals.">
+<title>fgpos - 5G Positioning System on ITU Campus</title>
+
+
+<link rel="canonical" href="http://localhost:1313/en/post/fgpos/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+
+
+<link rel="stylesheet" href="/scss/style.min.f84605a500e0bd34cbb5bbde3907649ee854484e314829fbf4c9d5cf517eefdf.css"><meta property='og:title' content="fgpos - 5G Positioning System on ITU Campus">
+<meta property='og:description' content="Attended Teknofest's 5G tech competition and got to the finals.">
+<meta property='og:url' content='http://localhost:1313/en/post/fgpos/'>
+<meta property='og:site_name' content='Burak Sina Akbudak'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='Competition' /><meta property='article:tag' content='Python' /><meta property='article:tag' content='Graphics' /><meta property='article:published_time' content='2025-08-10T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-08-10T00:00:00&#43;00:00'/>
+<meta name="twitter:title" content="fgpos - 5G Positioning System on ITU Campus">
+<meta name="twitter:description" content="Attended Teknofest's 5G tech competition and got to the finals."><style>
+     
+     
+    :root {
+        --base-font-family: "Roboto";  
+         
+        font-size: 70%;
+    }
+</style>
+
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        
+        customFont.href = "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap";
+        
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+    
+        document.head.appendChild(customFont);
+    }());
+</script>
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column compact"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/en/">Burak Sina Akbudak</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/en/page/about/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/en/page/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    <li id="i18n-switch">  
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                        <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                            
+                                
+                                
+                                    
+                                        
+                                    
+                                
+                                <option value="/en/post/fgpos/" selected>English</option>
+                            
+                                
+                                
+                                    
+                                
+                                <option value="/tr/" >Türkçe</option>
+                            
+                        </select>
+                    </li>
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/en/categories/info/" style="background-color: hsl(245, 60%, 84%); color: hsl(245, 60%, 15%);">
+                Info
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/en/post/fgpos/">fgpos - 5G Positioning System on ITU Campus</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            Attended Teknofest&#39;s 5G tech competition and got to the finals.
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published" datetime='2025-08-10T00:00:00Z'>Sunday, August 10, 2025</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    6 minutes read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    
+
+    <section class="article-content">
+    
+    
+    <p>I and my friend Eray attended to a Teknofest competition about triangulating positions from given 5G connection data. During the project, I have learned a lot about 5G terminology, radio waves and location triangulation algorithms.</p>
+<h1 id="task-description">Task Description
+</h1><p>Using the 5G base station configurations, environmental data, and uplink (UL), downlink (DL), and scanner data from the İTÜ Campus, develop a system that can predict the location of a user equipment (UE) in with an another set of inference-time UL, DL and scanner data.</p>
+<h1 id="tldr">TL,DR;
+</h1><p>We have simulated the propagation of radio signals with the given base configuration data and have developed a special triangulation algorithm that utilizes the the simulation results as well as the inference-time data.</p>
+<p>If you would like to take a look at our final presentation, you may do so via the <a class="link" href="https://www.canva.com/design/DAGvSi44gCM/z8-QGGzo-xZ1BTzUfVRRGQ/edit?utm_content=DAGvSi44gCM&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton"  target="_blank" rel="noopener"
+    >public canva link</a>.</p>
+<h1 id="detailed-methodology-and-journey">Detailed Methodology and Journey
+</h1><p><img src="/en/post/fgpos/campus_map_combined_2D.webp"
+	width="5969"
+	height="3220"
+	loading="lazy"
+	
+		alt="Simple 2D visualization of what we have as the given data"
+	
+    
+	
+		class="gallery-image" 
+		data-flex-grow="185"
+		data-flex-basis="444px"
+	
+></p>
+<p>What we basically tried to do was using the base station configuration data and İTÜ campus&rsquo;s geometric data, simulate the propagation of radio waves using <a class="link" href="https://nvlabs.github.io/sionna/"  target="_blank" rel="noopener"
+    >SionnaRT</a> (which actually uses <a class="link" href="https://mitsuba.readthedocs.io/"  target="_blank" rel="noopener"
+    >mitsuba</a> at its core).</p>
+<p>We initially would like to include environment data but it turns out SionnaRT only supports 2D planes for keeping radio wave strength. Therefore, we opted for using a 2D plane instead of geospatial data of the campus.</p>
+<p>Moreover, it was not an easy task to create the scene. We have used Blender and Blender-mitsuba extension for creating it. After fixing up some bad normals we were able to export the scene into a compatible format that mitsuba/SionnaRT can load. The main challenge were the coordinate transformations. We are living in a latitude, longitude, height world while mitsuba scene is in x, y, z. In order to solve this, I have written a small utility that uses <code>np.linalg.solve</code> to achieve the transformation matrix and its inverse. This was crucial, as we also have base station locations in terms of lat, lon, height and they too needed to be transformed. We initially thought about including it inside Blender scene, but later on found that it would be a lot harder that way.</p>
+<p><img src="/en/post/fgpos/campus_map_blender_output.webp"
+	width="1920"
+	height="1080"
+	loading="lazy"
+	
+		alt="I know it looks cool but this was not the final simulation environment."
+	
+    
+	
+		class="gallery-image" 
+		data-flex-grow="177"
+		data-flex-basis="426px"
+	
+></p>
+<p>After getting the scene, we put the base stations (and actually noticed flaws in the given configuration) and configured it accordingly. I have written a modular simulation framework so that we can quickly iterate through parameters.</p>
+<p><img src="/en/post/fgpos/simulation_vis.webp"
+	width="1920"
+	height="1200"
+	loading="lazy"
+	
+		alt="Simulation result from SionnaRT."
+	
+    
+	
+		class="gallery-image" 
+		data-flex-grow="160"
+		data-flex-basis="384px"
+	
+></p>
+<p>It was also a critical to test the simulation results. For this, I have written a evaluation pipeline that compares the datapoints given in task with the (continuous) simulation results. Results, well, let&rsquo;s say there were bad. Quite bad. Not only we were getting extreme strengths we also had inconsistencies in the general trend.</p>
+<p><img src="/en/post/fgpos/eval_sim.webp"
+	width="1920"
+	height="1200"
+	loading="lazy"
+	
+		alt="Directly from presentation. Right: evaluation result of simulation. Left: applied linear transformation."
+	
+    
+	
+		class="gallery-image" 
+		data-flex-grow="160"
+		data-flex-basis="384px"
+	
+></p>
+<p>Of course my initial attempt was to finetune the parameters and run the simulation again. After multiple failed attempts I&rsquo;ve decided to change the approach. I have came up with the idea of <em>interpolating the simulation results to ground truths</em>. Our simulation is a 3D data of shape <code>(num_base_stations, num_cells_y, num_cells_x)</code>. If we iterate over all base stations and for every base station, if we use the ground truth as the destination of our simulation, we can &ldquo;pull&rdquo; the simulation numbers close to real values.</p>
+<p>Well, this too is a problem of its own. First of all, our grid and number of ground truth samples are large. Iterating over every ground truth point and setting its simulation to that version and pulling the neighbouring values takes quite some time. Moreover, probably because of some mistake/misunderstanding in my codes I have failed to achieve desirable results even though my theory is correct and actually could improve the results. Working under stress is another beast, am I right?</p>
+<p>I knew simulation results were not in the shape I wanted them to be but nevertheless deadline was approaching and I wanted to got a final prediction for the location no matter how wrong it is. So, I have decided to move onwards.</p>
+<p>Next step, we obviously needed to write a triangulation algorithm. For this, we have written a threshold based triangulation algorithm that creates candidate masks within error margins, and also clusters close points into one point in order to reduce the size of candidates. In addition to these, we also assign weights based on signal strength weights and calculate a weighted centroid using them.</p>
+<p>In order to assess the location finding algorithm, I have written a evaluation suite that compares the results with the ground truth and shows useful graphs and statistics about them (like max/min/avg/median, haversine distance etc.).</p>
+<p><img src="/en/post/fgpos/eval_loc.webp"
+	width="1920"
+	height="1200"
+	loading="lazy"
+	
+		alt="Evaluation of the location finding algorithm."
+	
+    
+	
+		class="gallery-image" 
+		data-flex-grow="160"
+		data-flex-basis="384px"
+	
+></p>
+<p>After this point, the problem may be in anywhere, heck the only thing working fine is our transformation matrix from worlds coords to sim coords. I obviously tried to improve the simulation; change some base station configurations, linearly interpolate the results so that we don&rsquo;t get high results, correct some here and there as much as I can. I also tried to give interpolation idea a second chance and work on it for a couple of days but no luck.</p>
+<p>As an end resort, in the name of post-processing, I even tried to train a simple NN to give our simulation predictions and get the final results but it proved no use like I expected.</p>
+<h1 id="final-words">Final Words
+</h1><p>We could have gone for training a simple neural network for this task. I believe almost all of the other competitors tried that. We wanted to go for a simulation not because we can&rsquo;t do NN but to learn how difficult it is to simulate such large environment and breach that sim-to-real gap. Even though we did not get a podium, it was a brilliant experience to be a finalist and <em>literally</em> run to our predictions.</p>
+<p>What we did wrong? <strong>Simulation</strong>. İTÜ campus is pretty hilly, I believe it was the main reason why our simulation results were sky high.</p>
+<p>I still think our reasoning was to the point. However, it is extremely hard to work on a field that is quite deep and come up with a solution in such a short amount of time. This is why I love and hate about competitions where you are given a task and not come up with you own project area. I love it because you get to think on some specific problem and read papers that otherwise you wouldn&rsquo;t even look at. I hate it because it is extremely hard to do this stuff without prior knowledge. Even if you know all the tools you need to complete the task in the end, you still lack necessary theory and literature work.</p>
+<p>Nevertheless, thanks Teknofest and Turkcell for coming up with novel competition ideas. Please do keep it up!</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/en/tags/competition/">Competition</a>
+        
+            <a href="/en/tags/python/">Python</a>
+        
+            <a href="/en/tags/graphics/">Graphics</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">Related content</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="">
+    <a href="/en/post/transportation_coverage/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Transportation Coverage on Cities</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/en/post/musical_intervals/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Understanding Western Music by Its Intervals</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2026 Burak Sina Akbudak
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+    
+
+            </main>
+        </div>
+        <script type="text/javascript" src="/ts/main.8cc25e90b9ef84407b2767824f9c205ef7f5ced48e653f789b7fdd98d071a07d.js" defer></script>
+
+    </body>
+</html>

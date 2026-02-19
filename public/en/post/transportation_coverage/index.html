@@ -245,7 +245,7 @@
 
 
                 <time class="article-time--reading">
-                    1 minute read
+                    4 minutes read
                 </time>
             </div>
         
@@ -262,7 +262,156 @@
     <section class="article-content">
     
     
-    <p>Under construction.</p>
+    <p>While we were chatting with a friend, he asked</p>
+
+    <blockquote>
+        <p>&ldquo;Only using metros and walking maximum of 1 km, how much of İstanbul can you see?&rdquo;.</p>
+
+    </blockquote>
+<p>I always would liked to work with OpenStreetMap and Overpass API, therefore I rolled up my sleeves and researched how to use a map API. In this post, I would like to share my journey of getting used to gathering, processing and visualizing the map data.</p>
+<h1 id="getting-the-data">Getting the Data
+</h1><p>There exist many <a class="link" href="https://wiki.openstreetmap.org/wiki/Processed_data_providers"  target="_blank" rel="noopener"
+    >processed data providers</a>. For example, you may use <a class="link" href="https://download.geofabrik.de/europe.html"  target="_blank" rel="noopener"
+    >geofabrik</a> for Europe country specific data or <a class="link" href="https://download.openstreetmap.fr/extracts/"  target="_blank" rel="noopener"
+    >here</a> for other continents as well but I think <a class="link" href="https://overpass-turbo.eu/"  target="_blank" rel="noopener"
+    >Overpass API</a> is just amazing. You only need to get used to its query language. Here is an example:</p>
+<pre tabindex="0"><code>[out:xml]; # 
+// Node property search
+nwr[&#34;operator&#34;~&#34;Metro İstanbul&#34;]({{bbox}});
+//nwr[&#34;network&#34;~&#34;İstanbul Metrosu&#34;]({{bbox}});
+//nwr[&#34;operator&#34;~&#34;TCDD &#34;]({{bbox}});
+//nwr[&#34;railway&#34;~&#34;Ulaştırma &#34;]({{bbox}});
+out geom;
+</code></pre><p>One aspect I struggled to understand was the data formats. There are many formats to hold map data and you can export to many formats from Overpass API too. Because I would like to process this data on python I also needed a library that can handle such formats. Here is a page that explains different map formats: <a class="link" href="https://export.hotosm.org/v3/learn/export_formats"  target="_blank" rel="noopener"
+    >HOT Export Tool | Export Formats</a>.</p>
+<p>Another neat thing about the Overpass API is that the search and filtering depends on your bounding box screen (with the help of <code>({{bbox}})</code>). So you don&rsquo;t need to process the whole region or the whole country. Just having the map view covering the entire map is sufficient.</p>
+<p>I have chosen .csv because it is quite easy to work with (and I have experience on it). Though another problem I faced was to output csv. For some reason, I had trouble finding the way to output .csv properly in the overpass documentation. After some research, I have come across to the solution:</p>
+<pre tabindex="0"><code>[out:csv (::id, ::lat,::lon, name)];
+
+nwr[&#34;operator&#34;=&#34;Metro İstanbul&#34;]({{bbox}});
+
+out geom;
+</code></pre><p>or for bus stops:</p>
+<pre tabindex="0"><code>[out:csv (::id, ::lat,::lon, name)];
+
+nwr[&#34;operator&#34;=&#34;İETT&#34;]({{bbox}});
+//nwr[&#34;network&#34;=&#34;İETT&#34;]({{bbox}});
+//nwr[&#34;highway&#34;=&#34;bus_stop&#34;]({{bbox}});
+
+out geom;
+</code></pre><p>Additionally, if you would like to filter two keywords at the same time:</p>
+<pre tabindex="0"><code>nwr[&#34;highway&#34;=&#34;bus_stop&#34;][&#34;network&#34;=&#34;İETT&#34;]({{bbox}});
+</code></pre><h2 id="istanbul-specific-data-collection">İstanbul Specific Data Collection
+</h2><p>İBB has it&rsquo;s own <a class="link" href="https://data.ibb.gov.tr/"  target="_blank" rel="noopener"
+    >open data portal</a> that shares many data including public transportation related ones. There exists <a class="link" href="https://data.ibb.gov.tr/dataset/rayli-sistem-istasyon-noktalari-verisi"  target="_blank" rel="noopener"
+    >one</a> about the location of railed systems (just newly updated on 5 Jan 2025).</p>
+<h1 id="choice-of-library">Choice of Library
+</h1><p>Like I mentioned, there are many libraries in python for map visualization or map data processing. A couple of examples:</p>
+<ul>
+<li><a class="link" href="https://docs.osmcode.org/pyosmium/latest/"  target="_blank" rel="noopener"
+    >pyosmium</a>
+<ul>
+<li><a class="link" href="https://github.com/osmcode/pyosmium/tree/master/examples"  target="_blank" rel="noopener"
+    >Examples</a> directory is helpful.</li>
+<li>Before outputting csv, I was trying to work on OSM. <a class="link" href="https://docs.osmcode.org/pyosmium/latest/cookbooks/Filtering-Data-By-Tags/"  target="_blank" rel="noopener"
+    >Filtering an OSM Flie by Tag</a> from the documentation is a nice resource.</li>
+</ul>
+</li>
+<li><a class="link" href="https://plotly.com/python/"  target="_blank" rel="noopener"
+    >plotly</a>
+<ul>
+<li>It looks fantastic, not only for map visualization but also other graphics, charts and tables. I think it is a great matplotlib alternative.</li>
+<li>This specific <a class="link" href="https://plotly.com/python/tile-scatter-maps/"  target="_blank" rel="noopener"
+    >example</a> looked promising for me.</li>
+</ul>
+</li>
+<li><a class="link" href="https://geopandas.org/en/stable/"  target="_blank" rel="noopener"
+    >geopandas</a>
+<ul>
+<li>It is an extension of pandas library to allow spatial operations on geometric types.</li>
+<li>You can easily add a <a class="link" href="https://geopandas.org/en/stable/gallery/plotting_basemap_background.html"  target="_blank" rel="noopener"
+    >background</a> on your plot.</li>
+</ul>
+</li>
+<li><a class="link" href="https://python-visualization.github.io/folium/latest/"  target="_blank" rel="noopener"
+    >folium</a>
+<ul>
+<li>Interactive leaflet in python. Visualizing points or areas is super simple.</li>
+</ul>
+</li>
+</ul>
+<h1 id="methodology">Methodology
+</h1><p>The method is straightforward: draw a circle of radius R around each bus/metro station, then calculate the total area covered—accounting for overlapping regions—and subtract it from the total area of Istanbul.</p>
+<p>For calculating union, I have used <code>shapely</code>&rsquo;s <code>unary_union</code> method which simplified everything a lot.</p>
+<p><img src="/en/post/transportation_coverage/transportation.webp"
+	width="1920"
+	height="1200"
+	loading="lazy"
+	
+		alt="Simple visualization of bus stops across İstanbul"
+	
+    
+	
+		class="gallery-image" 
+		data-flex-grow="160"
+		data-flex-basis="384px"
+	
+></p>
+<h1 id="answer-to-the-initial-question">Answer to the initial question
+</h1><p>Here are total areas of that circles (accounting overlapping):</p>
+<div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>Mode</th>
+          <th>100m</th>
+          <th>500m</th>
+          <th>1000m</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Bus</td>
+          <td>185.84 km²</td>
+          <td>1513.76 km²</td>
+          <td>2439.00 km²</td>
+      </tr>
+      <tr>
+          <td>Metro</td>
+          <td>10.37 km²</td>
+          <td>223.61 km²</td>
+          <td>661.17 km²</td>
+      </tr>
+  </tbody>
+</table></div>
+<p>If we say İstanbul to have an area of 5461 km2 (including forests and other non-city places too), then each of the above values can be expressed as percentages:</p>
+<div class="table-wrapper"><table>
+  <thead>
+      <tr>
+          <th>Mode</th>
+          <th>100m</th>
+          <th>500m</th>
+          <th>1000m</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Bus</td>
+          <td>3.40%</td>
+          <td>27.7%</td>
+          <td>44.66%</td>
+      </tr>
+      <tr>
+          <td>Metro</td>
+          <td>0.18%</td>
+          <td>4.09%</td>
+          <td>12.10%</td>
+      </tr>
+  </tbody>
+</table></div>
+<h1 id="final-thoughts">Final Thoughts
+</h1><p>In future work, I intend to exclude non-urban areas from the analysis. Since much of Istanbul’s 5461 km2 total area is uninhabited, recalculating coverage based strictly on populated zones will yield a more accurate representation of transit accessibility.</p>
+<p>As always, script can be accessed in <a class="link" href="https://github.com/Fansesi/transportation-coverage"  target="_blank" rel="noopener"
+    >github</a>.</p>
 
 </section>
 

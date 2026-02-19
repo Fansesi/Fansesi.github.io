@@ -164,7 +164,7 @@ Bölge sergisi her sene bölgenin içine aldığı bir ilde düzenleniyor. O ild
 - Gün 4: Sergi üçüncü gün, jüri sunumları olacaktır.
 - Gün 5: Ödül töreni ve kapanış.
 
-Son dönemlerde (2024-2025 için) tasarruf tedbirleri kapsamında bölge sergilerinin online yapılacağı söylentisi bulunuyor. Dolayısıyla yukarıda söylediklerim tarih olabilir. 
+Son dönemlerde (2024-2025 için) tasarruf tedbirleri kapsamında bölge sergilerinin online yapılacağı söylentisi bulunuyor. Dolayısıyla yukarıda söylediklerim tarih olabilir. (Düzeltme 19.02.26: yazı paylaşıldığından beri hem bölge hem final sergisi yüz yüze yapılıyor, bir değişiklik bulunmamakta.)
 
 Bence her ne kadar zor olsa da, bir bölge sergisinde yapılmaması ve yapılması gerekenler şöyle:
 
@@ -408,7 +408,7 @@ Alana geldiğinizde ilk olarak yapacak bir sürü işiniz olacak. Sırasıyla be
 - Yönergeleri izleyerek HUB'a gidip kaydınızı yaptırın.
 - *Initial Inspector* gelene kadar özetinizi pinleyin (veya o geldiği zaman ondan pin isteyin).
 - *Initial inspection*'ı geçin, sorularını cevaplayın.
-- Ardından *main inspector*'ı karşılayıp *inspection process'i* tamamlayın.
+- Ardından *main inspector*'ı karşılayıp *inspection process*'i tamamlayın.
 - Eğer varsa elektronik eşyalarınızı HUB'dan QR'layın.
 
 Bundan sonra aslında tek önemli gün jüri sunumlarının olduğu gün. Ancak o zamana kadar birçok panel ve etkinlik olacaktır. İlginizi çekenlere katılmaya çalışın, faydalı olabiliyorlar. Ayrıca gidip gelmek istediğiniz yerler varsa TÜBİTAK yetkililerine öneri sunup onlarla birlikte gezebilirsiniz (veya danışman öğretmeniniz sizinleyse onunla da gezebilirsiniz).

@@ -78,8 +78,21 @@
                 href="http://localhost:1313/en/post/2204a_2023_travel/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/page/about/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr-TR"
+                href="http://localhost:1313/tr/page/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/page/about/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-02-19T00:00:00+00:00</lastmod>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="tr-TR"
@@ -89,6 +102,19 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/page/</loc>
+    <lastmod>2026-02-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr-TR"
+                href="http://localhost:1313/tr/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/page/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/tags/c&#43;&#43;/</loc>
@@ -168,32 +194,6 @@
   </url><url>
     <loc>http://localhost:1313/en/tags/music/</loc>
     <lastmod>2024-09-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/page/about/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr-TR"
-                href="http://localhost:1313/tr/page/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/page/about/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/page/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr-TR"
-                href="http://localhost:1313/tr/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/page/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/los-angeles/</loc>
     <lastmod>2024-05-10T00:00:00+00:00</lastmod>

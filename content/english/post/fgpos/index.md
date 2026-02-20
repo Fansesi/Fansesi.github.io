@@ -39,7 +39,7 @@ After getting the scene, we put the base stations (and actually noticed flaws in
 
 It was also a critical to test the simulation results. For this, I have written a evaluation pipeline that compares the datapoints given in task with the (continuous) simulation results. Results, well, let's say there were bad. Quite bad. Not only we were getting extreme strengths we also had inconsistencies in the general trend.
 
-![Directly from presentation. Right: evaluation result of simulation. Left: applied linear transformation.](eval_sim.webp)
+![Directly from presentation. Left: evaluation result of simulation. Right: applied linear transformation.](eval_sim.webp)
 
 Of course my initial attempt was to finetune the parameters and run the simulation again. After multiple failed attempts I've decided to change the approach. I have came up with the idea of *interpolating the simulation results to ground truths*. Our simulation is a 3D data of shape `(num_base_stations, num_cells_y, num_cells_x)`. If we iterate over all base stations and for every base station, if we use the ground truth as the destination of our simulation, we can "pull" the simulation numbers close to real values. 
 

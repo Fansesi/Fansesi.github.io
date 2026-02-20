@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: 2024-07-15
+date: 2026-02-20
 layout: "about"
 slug: "about"
 menu:
@@ -10,35 +10,16 @@ menu:
             icon: user
 ---
 
-My full name is Burak Sina Akbudak, though I prefer to be called just Sina. I'm a passionate Music Information Retrieval (MIR) researcher (or at least I want to be!). I speak Turkish native and English at professional level. I'm currently a student at Bogazici University, Computer Engineering Department.
+My full name is Burak Sina Akbudak, though I prefer to be called just Sina. I have, and probably will at the end of my undergrad years, worked on many fields such as formal mathematics with LLMs, music generation/musical information retrieval, computer graphics and heck, even finite state automaton. I speak Turkish native and English at professional level. I'm currently a undergrad at Bogazici University, Computer Engineering Department.
 
-My interests can be categorized as follows:
+My main aim during the undergraduate years is to see and understand as much as I can so that when I graduate I can have many directions to go for. Although there are many fields that I am passionate to work on, I am in the search for the one that my skills and interest aligns the best.
 
-### Music
+As of 2026, I am currently looking to increase my understanding in computer graphics, more specifically differential rendering. I hope to work on a lab regarding to this topic and actually do research instead of writing C++/OpenGL games.
 
-* Classical, jazz and math rock music composition
-* Music theory and using this theory knowledge on playing classical, electrical, bass guitars and drums
-* Digital Audio Workstations (DAWs) and signal processing
+**Small bio**: During 2025, I interned under Zeynel Uluşan, focusing on the topic of neural formal theorem proving where we leveraged symbolic languages and novel tree search techniques to enhance the mathematical reasoning capabilities of LLMs. Moreover, during my high school years, I worked under the guidance of Asst. Prof. Gözde Gül Şahin in order to represent Türkiye in EUCYS and ISEF. In that project, I proposed a 2D tokenization technique for symbolic music representation, a custom transformer model and an evaluation metric to assess the playability of the generations.
 
-### Coding
+Apart from my academic life, I am a classical guitarist for the past I-have-no-idea-how-much-years, and also like to compose stuff on my DAW and record my electric guitar. You may want to checkout my [YouTube](https://www.youtube.com/@buraksinaakbudak) to give my pieces a listen.
 
-* Music modeling using natural language modeling techniques
-* Music information retrieval (MIR), namely the fields of synthetic music generation, singing voice synthesis, text-to-speech
-* Physical simulations using C/C++ (although I still have a lot to learn!)
-
-### Digital Art
-
-* 3D environment design
-* Character and hard surface modeling
-* Shader art coding and openGL
-* Pixel art
-
-### Other
-
-* Mathematical olympiads and contests
-* Game industry and game development
-* 3D printers and printing
-
-In this blog, I write about my projects, researchs, some thoughts and guides about specific stuff such as problems I've faced during my works or guide to project competitions. I also share my personal travel notes.
+In this blog, I write about my projects, researchs, some thoughts and guides about specific stuff such as problems I've faced during my works. I also share my personal travel notes sometimes, although I don't travel as much as I did during high school years.
 
 Have a beautiful day!

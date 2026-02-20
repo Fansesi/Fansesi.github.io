@@ -28,6 +28,6 @@ defaultContentLanguageInSubdir = true
   title = 'Burak Sina Akbudak'
   weight = 1
   [languages.en.params]
-  subtitle = 'Reference, Tutorials, and Explanations'
+  subtitle = 'Personal Website'
   description = 'English description'
     

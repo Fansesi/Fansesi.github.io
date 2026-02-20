@@ -1,3 +1,6 @@
 [submodule "themes/hugo-theme-stack"]
 	path = themes/hugo-theme-stack
 	url = https://github.com/CaiJimmy/hugo-theme-stack/
+[submodule "themes/hugo-theme-stack-fansesi"]
+	path = themes/hugo-theme-stack-fansesi
+	url = https://github.com/Fansesi/hugo-theme-stack-fansesi
